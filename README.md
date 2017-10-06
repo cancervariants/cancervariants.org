@@ -1,12 +1,12 @@
 ## Overview
 
-This is the github repo for the Variant Interpretation for Cancer Consortium [website](http://http://cancervariants.org). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive jekyll theme](https://github.com/Phlow/feeling-responsive). Development occurs on the master branch, the live site is located on the gh-pages branch.
+This is the github repo for the Variant Interpretation for Cancer Consortium [website](http://cancervariants.org). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive jekyll theme](https://github.com/Phlow/feeling-responsive). Development occurs on the master branch, the live site is located on the gh-pages branch.
 
 ## Installation
 
 To install this site locally run the following commands:
 
-1. Clone the repo and cd into it `$ git clone git@github.com:griffithlab/gen-viz-workshop.git`
+1. Clone the repo and cd into it `$ git clone git@github.com:genome/vicc.git`
 2. Install the bundler `$ gem install bundler`
 3. Install gems `$ bundle install`
 4. run jekyll and watch for changes `$ bundle exec jekyll serve --watch`
