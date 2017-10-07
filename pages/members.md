@@ -6,7 +6,8 @@ subheadline: ""
 teaser: ""
 permalink: "/members/"
 header:
-   image_fullwidth: ""
+  image: "VICC_color_combo_v2.png"
+  background-color: "#18252B"
 ---
 
 

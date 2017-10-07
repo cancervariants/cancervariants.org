@@ -23,4 +23,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+header:
+  image: "VICC_color_combo_v2.png"
+  background-color: "#18252B"
 ---
