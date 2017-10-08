@@ -18,10 +18,10 @@ header:
 
 <div class="row">
   <div class="large-8 large-offset-1 columns" align="center">
-     Variant Interpretation for Cancer Consortium (VICC)
+     <h4>Variant Interpretation for Cancer Consortium (VICC)</h4>
   </div>
   <div class="large-2 columns end" align="center">
-     G2P
+     <h4>G2P</h4>
   </div>
 </div>
 
@@ -43,5 +43,16 @@ header:
   </div>
 </div>
 
+<div class="row">
+    <div class="large-11 large-offset-1 columns">
+        <h3>Key Partners</h3>
+        <h4>Coming soon...</h4>
+    </div>
+</div>
 
-
+<div class="row">
+    <div class="large-11 large-offset-1 columns">
+        <h3>Consortium Participants</h3>
+        <h4>Coming soon...</h4>
+    </div>
+</div>

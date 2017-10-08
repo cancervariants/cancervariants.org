@@ -10,5 +10,4 @@ header:
   background-color: "#18252B"
 ---
 
-
-TEST OF THE PRINCIPLES PAGE
+### Coming soon...
