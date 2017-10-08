@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title: "Join/Participate"
+title: "Join"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/join_participate/"
+permalink: "/join/"
 header:
   image: "VICC_color_combo_v2.png"
   background-color: "#18252B"

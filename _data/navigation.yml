@@ -10,12 +10,12 @@
   url: "/members/"
   side: left
 
-- title: Participating Resources
-  url: "/participating_resources/"
+- title: Organizations
+  url: "/organizations/"
   side: left
 
-- title: Join/Participate
-  url: "/join_participate/"
+- title: Join
+  url: "/join/"
   side: left
 
 - title: Projects
@@ -24,17 +24,10 @@
   dropdown:
   - title: "Virtual Tumor Board"
     url: "/projects/virtual_tumor_board/"
-  - title: "Interpretive Knowledgebases"
-    url: "/projects/interpretive_knowledgebases/"
+  - title: "Knowledgebase Integration"
+    url: "/projects/knowledgebase_integration/"
 
 - title: Downloads
   url: "/downloads/"
   side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
