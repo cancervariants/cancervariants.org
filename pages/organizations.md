@@ -10,7 +10,7 @@ header:
   background-color: "#18252B"
 ---
 
-To date we have secured commitments to share data from a number of key knowledgebases and resources. Any group willing to commit to the VICC guiding principles is welcome to participate. 
+To date we have secured commitments to share data from a number of key knowledgebases and resources. Any group willing to commit to the VICC guiding principles is welcome to participate.
 
 <div class="row">
     <div class="small-12 columns">
@@ -20,13 +20,19 @@ To date we have secured commitments to share data from a number of key knowledge
 
 <div class="row">
   <div class="large-4 columns">
+    <a href="http://www.civicdb.org">
       <img src="/assets/img/CIViC_logo.png">
+    </a>
   </div>
   <div class="large-4 columns">
+    <a href="http://oncokb.org/">
       <img src="/assets/img/oncokb_logo.png">
+    </a>
   </div>
   <div class="large-4 columns">
+    <a href="https://cancergenomeinterpreter.org">
       <img src="/assets/img/CGI_logo.png">
+    </a>
   </div>
 </div>
 
@@ -50,7 +56,9 @@ To date we have secured commitments to share data from a number of key knowledge
 
 <div class="row">
   <div class="large-4 columns">
+    <a href="https://pmkb.weill.cornell.edu/">
       <img src="/assets/img/PMKB_logo.png">
+    </a>
   </div>
   <div class="large-4 columns">
 
@@ -73,5 +81,3 @@ To date we have secured commitments to share data from a number of key knowledge
 
   </div>
 </div>
-
-
