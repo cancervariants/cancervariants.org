@@ -6,8 +6,8 @@ subheadline: ""
 teaser: ""
 permalink: "/organizations/"
 header:
-  image: "VICC_color_combo_v2.png"
-  background-color: "#18252B"
+  image: "VICC_color_combo_v3.png"
+  background-color: "#3AAEA9"
 ---
 
 To date we have secured commitments to share data from a number of key knowledgebases and resources. Any group willing to commit to the VICC guiding principles is welcome to participate.

@@ -26,14 +26,15 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #aacfcd;		// turquoise
+$ci-1: #747C7F;		// dark turquoise
+$ci-2: #18252B;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #6CACA8;     // green (#A1D044) modified to VICC logo turquoise
+$ci-6: #18252B;     // green (#A1D044) modified to VICC logo turquoise
 
-
+//#3AAEA9
+//#18252B
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
@@ -76,15 +77,15 @@ $topbar-bg-color: $body-bg;
 $topbar-bg: $topbar-bg-color;
 
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-toggle-color: #3AAEA9;
 
-$topbar-link-color: #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color: #3AAEA9;
+$topbar-link-color-hover: #3AAEA9;
+$topbar-link-color-active: #3AAEA9;
+$topbar-link-color-active-hover: #3AAEA9;
 
-$topbar-dropdown-label-color: $ci-6;
-$topbar-dropdown-link-bg-hover: $ci-2;
+$topbar-dropdown-label-color: #3AAEA9;
+$topbar-dropdown-link-bg-hover: $ci-1;
 
 $topbar-link-bg-active: $ci-6; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
@@ -92,7 +93,7 @@ $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-link-color: #3AAEA9;
 $topbar-dropdown-link-bg: $ci-6;
 
 $topbar-menu-link-color-toggled: $ci-6;
@@ -104,7 +105,7 @@ $topbar-menu-icon-color: #000;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: #222A2F;
+$footer-bg: #3AAEA9;
 $footer-color: #fff;
 $footer-link-color: $ci-6;
 

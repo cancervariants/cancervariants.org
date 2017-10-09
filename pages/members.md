@@ -6,8 +6,8 @@ subheadline: ""
 teaser: ""
 permalink: "/members/"
 header:
-  image: "VICC_color_combo_v2.png"
-  background-color: "#18252B"
+  image: "VICC_color_combo_v3.png"
+  background-color: "#3AAEA9"
 ---
 
 <div class="row">
@@ -27,7 +27,7 @@ header:
 
 <div class="row">
   <div class="large-2 large-offset-1 columns">
-     <img src="/assets/img/obi_griffith.jpg"> 
+     <img src="/assets/img/obi_griffith.jpg">
   </div>
   <div class="large-2 columns">
      <img src="/assets/img/malachi_griffith.jpg">

@@ -6,8 +6,8 @@ subheadline: ""
 teaser: ""
 permalink: "/projects/knowledgebase_integration/"
 header:
-  image: "VICC_color_combo_v2.png"
-  background-color: "#18252B"
+  image: "VICC_color_combo_v3.png"
+  background-color: "#3AAEA9"
 ---
 
 ### Coming soon...
