@@ -324,11 +324,11 @@ body.video cite { color: #fff; }
     display: block;
     width: 36px;
     border-radius: 50%;
-    color: $subfooter-bg;
-    background: $subfooter-color;
+    color: $footer-bg;
+    background: $footer-color;
     text-align: center;
     &:hover {
-      background: $subfooter-bg;
+      background: $footer-bg;
       color: #fff;
     }
   }
