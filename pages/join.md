@@ -15,7 +15,7 @@ The VICC holds bi-weekly calls of all participants. These meetings serve several
 - Presentations from existing cancer knowledgebases. These presentations help to increase awareness of otherwise siloed efforts. Each presentation is followed by discussion of developing standards, ontologies, and APIs.
 - Input from industry partners and other interested parties.
 - Discussion of ongoing efforts to create a common interface for querying across VICC participant knowledgebases.
-- Discussion of efforts to form a virtual tumor board.
+- Discussion of efforts to form a virtual tumor board. The goal of this exercise is to help drive our discussion of cancer variant interpretation standards and best practices.
 - Planning for grant submissions to support the work of VICC.
 
 Everyone is welcome to join these calls. If you would like to join, please contact the [VICC leadership](/members/) or <a href="mailto:rachel.liao@genomicsandhealth.org">Rachel Liao</a> of the GA4GH.
