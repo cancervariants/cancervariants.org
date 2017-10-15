@@ -125,14 +125,14 @@ header:
 <div class="row">
     <div class="large-11 large-offset-1 columns">
         <h3>Virtual Tumor Board</h3>
-        <h4>Coming soon ... Seeking Key Partners</h4>
+        <h4>Coming soon ... Seeking key partners</h4>
     </div>
 </div>
 
 <div class="row">
     <div class="large-11 large-offset-1 columns">
         <h3>Consortium Participants (Past and Present)</h3>
-        <h4>Coming soon...</h4>
+        <p>Adam Margolin, Aitana Lebrand, Alberto Cambrosio, Alex Wagner, Alexander Senf, Alexander Wait Zaranek, Anas Belouali, Andra Waagmeester, Andrew Biankin, Andrew Su, Andrey Zapariy, Andy Yates, Bailey Glen, Ben Ainscough, Beth Pitel, Bin Tean The, Brad Chapman, Brian Walsh, Catherine Del Vecchio Fitz, Chris Corless, Chris Sander, Christine Micheel, Chunlei Wu, Daniel Durkin, Daniel Stekhoven, David Chang, David Haussler, David Heckerman, David Masica, David Tamborero, Deborah Ritter, Debyani Chakravarty, Dmitriy Sonkin, Eli Van Allen, Erin Ramos, Ethan Cerami, Etienne Vignola-Gagné, Fiona Cunningham, Gabe Rudy, Georgia Mayfield, Gordana Raca, Greg Stupp, Heidi Sofia, Jacques Beckmann, Jeffrey Rosenfeld, Jeremy Goecks, Jianjiong Gao, Joachim Weischenfeldt, Jonah Campbell, Jonathan Ellis, Jordi Deu, Julia Wilson, Justina Chung, Kevin Osborn, Kilannin Krysiak, Koh Liang Kai, Larry Babb, Lena Dolman, Lillian Siu, Lynn Brazil, Lynn Schriml, Malachi Griffith, Mamatha Shekar, Mark Jensen, Mark Lawler, Maximilian Haeussler, Melanie Courtot, Melissa Haendel, Melissa Landrum, Michael Baudis, Michael Bouziner, Moritz Gerstung, Nikolaus Schultz, Nora Christina Toussaint, Nuria Lopez-Bigas, Obi Griffith, Oliver Hofmann, Olivier Elemento, Paul Leo, Peter Keating, Rachel Liao, Ravi Pandya, Rob Currie, Robert Freimuth, Rodrigo Dienstmann, Sameek Roychowdhury, Sara Gosline, Sara Patterson, Sarah Hunt, Shirley Li, Shruti Rao, Steven Brenner, Subha Madhavan, Susan Mockus, Tero Aittokallio, Trish Whetzel, Ugur Sezerman, William Glen.</p>
     </div>
 </div>
 
