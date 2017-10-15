@@ -46,5 +46,5 @@ To date a large number of academic and commercial groups have agreed to particip
 The VICC is open to all interested participants. If you are working to interpret the clinical significance of cancer variants, please consider joining us. We are active participants of the GA4GH, and the VICC has active representation at the plenary meetings. We also contribute to several GA4GH Work Streams. The VICC holds bi-weekly video conference calls to solicit feedback from the community, to encourage engagement between relevant cancer knowledgebases, and to discuss technical progress. Refer to the [Join](/join/) section for details on how to get involved.
 
 ## Ongoing Projects
-The VICC has undertaken several specific projects to tackle areas of variant interpretation, standards development, funding, and outreach. Refer to the [Projects](/projects/) for further details.
+The VICC has undertaken several specific projects to tackle areas of variant interpretation, standards development, funding, and outreach. Refer to the [Projects](/projects/) section for further details.
 
