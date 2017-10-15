@@ -125,13 +125,13 @@ header:
 <div class="row">
     <div class="large-11 large-offset-1 columns">
         <h3>Virtual Tumor Board</h3>
-        <h4>Coming soon...</h4>
+        <h4>Coming soon ... Seeking Key Partners</h4>
     </div>
 </div>
 
 <div class="row">
     <div class="large-11 large-offset-1 columns">
-        <h3>Consortium Participants</h3>
+        <h3>Consortium Participants (Past and Present)</h3>
         <h4>Coming soon...</h4>
     </div>
 </div>
