@@ -43,8 +43,8 @@ Formation of the VICC was supported by the [GA4GH](http://genomicsandhealth.org/
 To date a large number of academic and commercial groups have agreed to participate including those at Washington University (CIViC), MSKCC (OncoKB), Weill Cornell (PMKB), Oregon Health and Science University, Dana-Farber, Institute for Research in Biomedicine, Illumina Inc, and others. Together, this consortium will create a federated query service able to interrogate associations between cancer gene alterations and clinical actions, for each cancer disease setting, based on evidence amassed from all participating institutions world-wide.
 
 ## How to Join
-### Coming soon...
+The VICC is open to all interested participants. If you are working to interpret the clinical significance of cancer variants, please consider joining us. We are active participants of the GA4GH, and the VICC has active representation at the plenary meetings. We also contribute to several GA4GH Work Streams. The VICC holds bi-weekly video conference calls to solicit feedback from the community, to encourage engagement between relevant cancer knowledgebases, and to discuss technical progress. Refer to the [Join](/join/) section for details on how to get involved.
 
 ## Ongoing Projects
-### Coming soon...
+The VICC has undertaken several specific projects to tackle areas of variant interpretation, standards development, funding, and outreach. Refer to the [Projects](/projects/) for further details.
 
