@@ -32,7 +32,7 @@ header:
      WashU
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/malachi_griffith2.jpg"><br>
+     <img src="/assets/img/malachi_griffith3.jpg"><br>
      Malachi Griffith<br>
      WashU
   </div>
