@@ -18,7 +18,7 @@ The VICC holds bi-weekly calls of all participants. These meetings serve several
 - Discussion of efforts to form a virtual tumor board.
 - Planning for grant submissions to support the work of VICC.
 
-Everyone is welcome to join these calls. If you would like to join, please contact the [VICC leadership](/members/) or Rachel Liao of the GA4GH (rachel.liao@genomicsandhealth.org).
+Everyone is welcome to join these calls. If you would like to join, please contact the [VICC leadership](/members/) or <a href="mailto:rachel.liao@genomicsandhealth.org">Rachel Liao</a> of the GA4GH.
 
 ### Adopt the VICC sharing principles
 If your organization is currently creating a knowledgebase of clinical interpretations of cancer variants, please considering formally joining the VICC by adopting the [VICC Guiding Principles](/principles/).
