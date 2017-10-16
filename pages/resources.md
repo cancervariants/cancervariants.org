@@ -40,8 +40,7 @@ If you believe this list is missing a relevant resource or contains any inaccura
 * [(Re)usable Data Project](http://reusabledata.org/)
 
 ### Precision medicine initiatives we hope to serve
-In addition to the molecular tumor boards at participating institutions with cancer variant knowledgebases the VICC also hope to help provide high quality clinical variant interpretations with any interested precision medicine effort. The following is a selected list of precision medicine efforts and cancer treatment centers we are actively engaged with: 
+In addition to the molecular tumor boards at participating institutions with cancer variant knowledgebases the VICC also hope to help provide high quality clinical variant interpretations with any interested precision medicine effort. The following is a selected list of precision medicine efforts and cancer treatment centers we are actively engaged with:
 * [Personalized Oncogenomics Program](http://www.personalizedoncogenomics.org/), BCCA, Vancouver BC.
 * [The Charité Comprehensive Cancer Center](https://www.charite.de/)
-
 
