@@ -25,6 +25,6 @@ The Global Alliance for Genomic Health (GA4GH) has worked over the past several 
 - Each institute will share all or a significant proportion of interpretations (with at least the minimal required data elements) accumulated by their current curation efforts. This will require releasing content under permissive licenses (free and non-exclusive for at least research use) and providing documented public APIs for data access.
 - Building on software developed for independent efforts will be critical to create a community resource. Therefore, software will be released in public repositories with open source licenses.
 - To avoid patient data privacy concerns, the project will focus initially on clinical interpretations derived from published findings (literature, conference proceedings, and clinical trial records), not individual patient/variant-level observations.
-- Data sharing will be facilitated by use of the [Genotype-to-Phenotype schemas](http://ga4gh-schemas.readthedocs.io/en/latest/api/genotypephenotype.html), APIs and demonstration implementations.
+- Data sharing will be facilitated by use of the [Genotype-to-Phenotype](http://ga4gh-schemas.readthedocs.io/en/latest/api/genotypephenotype.html) schemas, APIs and demonstration implementations.
 - The VICC will make available bulk downloads of all cross-knowledgebase interpretations to facilitate data mining.
 
