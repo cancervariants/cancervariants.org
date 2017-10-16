@@ -15,7 +15,9 @@ If you are working to create cancer variant interpretations and would like to fo
 the VICC letter of support. Please [contact us](/members/) to discuss further and submit a signed version to the VICC. The text of this agreement can be found here: [VICC_LoS_template.pdf](/assets/docs/VICC_LoS_template.pdf).
 
 ### Cancer Variant Knowledgebases
-There are now quite a number of high quality cancer variant knowledgebases that aim to document the clinical relevance of individual variants. A growing list of these resources along with some of their features are maintained here: [Cancer Variant Knowledgebase List](https://docs.google.com/spreadsheets/d/1a_SLGdB3zCI3xWbws2S1ZvVOsk2gDYlUkpZjd2HdHBo/pubhtml). If you believe this list is missing a relevant resource or contains any inaccuracies, please [contact us](/members/).
+There are now quite a number of high quality cancer variant knowledgebases that aim to document the clinical relevance of individual variants. A growing list of these resources along with some of their features are maintained here: [Cancer Variant Knowledgebase List](https://docs.google.com/spreadsheets/d/1a_SLGdB3zCI3xWbws2S1ZvVOsk2gDYlUkpZjd2HdHBo/pubhtml). 
+
+If you believe this list is missing a relevant resource or contains any inaccuracies, please [contact us](/members/).
 
 ### Relevant git repositories
 [ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
