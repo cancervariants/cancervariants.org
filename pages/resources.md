@@ -25,9 +25,9 @@ If you believe this list is missing a relevant resource or contains any inaccura
 [ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
 
 ### Related efforts/projects
-* [HGVS](http://varnomen.hgvs.org/)
+* [HGVS Specification](http://varnomen.hgvs.org/)
 * [Variant Modelling Collaboration](https://github.com/ga4gh/vmc), [VMC Specification](http://bit.ly/vmc-spec)
-* [VCF](http://samtools.github.io/hts-specs/)
+* [VCF Specification](http://samtools.github.io/hts-specs/)
 * [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
 * [ClinGen](https://www.clinicalgenome.org/)
 * [Variant Allele Registry](http://reg.clinicalgenome.org/)
