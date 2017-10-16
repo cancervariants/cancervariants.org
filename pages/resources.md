@@ -37,6 +37,7 @@ If you believe this list is missing a relevant resource or contains any inaccura
 * [ClinGen Curation Interfaces](https://curation.clinicalgenome.org/)
 * [ClinGen Pathogenicity Calculator](http://calculator.clinicalgenome.org/)
 * [SEPIO](https://github.com/monarch-initiative/SEPIO-ontology) (ontology for representing scientific evidence and provenance information)
+* [(Re)usable Data Project](http://reusabledata.org/)
 
 ### Precision medicine initiatives we hope to serve
 In addition to the molecular tumor boards at participating institutions with cancer variant knowledgebases the VICC also hope to help provide high quality clinical variant interpretations with any interested precision medicine effort. The following is a selected list of precision medicine efforts and cancer treatment centers we are actively engaged with: 
