@@ -25,7 +25,7 @@ If you believe this list is missing a relevant resource or contains any inaccura
 * [GA4GH 5th Plenary VICC Driver Project Presentation](/assets/docs/VICC_GA4GH_5thPlenary.pdf)
 
 ### Relevant git repositories
-[ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
+* [ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
 
 ### Related efforts/projects
 * [HGVS Specification](http://varnomen.hgvs.org/)
