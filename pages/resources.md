@@ -21,20 +21,19 @@ There are now quite a number of high quality cancer variant knowledgebases that 
 [ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
 
 ### Related efforts/projects
-HGVS
-[Variant Modelling Collaboration](https://github.com/ga4gh/vmc), [VMC Specification](http://bit.ly/vmc-spec)
-VCF
-ClinVar
-ClinGen
-Variant Allele Registry
-ClinGen Variant Curation Interface
-ClinGen Pathogenicity Calculator
-SEPIO (ontology for representing scientific evidence and provenance information)
+* [HGVS](http://varnomen.hgvs.org/)
+* [Variant Modelling Collaboration](https://github.com/ga4gh/vmc), [VMC Specification](http://bit.ly/vmc-spec)
+* [VCF](http://samtools.github.io/hts-specs/)
+* [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
+* [ClinGen](https://www.clinicalgenome.org/)
+* [Variant Allele Registry](http://reg.clinicalgenome.org/)
+* [ClinGen Curation Interfaces](https://curation.clinicalgenome.org/)
+* [ClinGen Pathogenicity Calculator](http://calculator.clinicalgenome.org/)
+* [SEPIO](https://github.com/monarch-initiative/SEPIO-ontology) (ontology for representing scientific evidence and provenance information)
 
 ### Precision medicine initiatives we hope to serve
-[Personalized Oncogenomics Program](http://www.personalizedoncogenomics.org/)
-
-
-
+In addition to the molecular tumor boards at participating institutions with cancer variant knowledgebases the VICC also hope to help provide high quality clinical variant interpretations with any interested precision medicine effort. The following is a selected list of precision medicine efforts and cancer treatment centers we are actively engaged with: 
+* [Personalized Oncogenomics Program](http://www.personalizedoncogenomics.org/), BCCA, Vancouver BC.
+* [The Charité Comprehensive Cancer Center](https://www.charite.de/)
 
 
