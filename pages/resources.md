@@ -11,8 +11,7 @@ header:
 ---
 
 ### The VICC participation agreement
-If you are working to create cancer variant interpretations and would like to formally join the VICC, please consider signing 
-the VICC letter of support. 
+If you are working to create cancer variant interpretations and would like to formally join the VICC, please consider signing the VICC letter of support. 
 
 Please [contact us](/members/) to discuss further and submit a signed version to the VICC. The text of this agreement can be found here: [VICC_LoS_template.pdf](/assets/docs/VICC_LoS_template.pdf).
 
@@ -25,7 +24,7 @@ If you believe this list is missing a relevant resource or contains any inaccura
 * [GA4GH 5th Plenary VICC Driver Project Presentation](/assets/docs/VICC_GA4GH_5thPlenary.pdf)
 
 ### Knowledgebase Tutorials
-Beth Pitel (Mayo Clinic) as part of her role in the Cancer Genomics Consortium has developed an excellent series of educational tutorials for popular variant interpretation resources. 
+Beth Pitel (Mayo Clinic) as part of her role in the [Cancer Genomics Consortium](https://www.cancergenomics.org) has developed an excellent series of educational tutorials for popular variant interpretation resources. 
 * [Compendium of Cancer Genome Aberrations](/assets/docs/tutorials/CCGA.pdf)
 * [Cancer Genome Interpreter](/assets/docs/tutorials/CGI.pdf) 
 * [CIViC - A Knowledgebase for Clinical Interpretation of Variants in Cancer](/assets/docs/tutorials/CIViC.pdf)
