@@ -14,7 +14,7 @@ The VICC is currently working to launch a virtual tumor board. The purpose of th
 
 If you would like to participate in the Virtual Tumor Board by submitting a hypothetical case or discussing cases with the group, please [contact the VICC](/join/).
 
-<form action="https://formspree.io/you@email.com" method="POST">
+<form action="https://formspree.io/obigriffith@wustl.edu" method="POST">
     <input type="email" name="_replyto" placeholder="Your Email">
     <input type="text" name="name" placeholder="Your Name">
     <textarea name="message" placeholder="Your message"></textarea>
