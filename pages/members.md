@@ -68,7 +68,7 @@ header:
   <div class="large-2 columns" align="center">
      <img src="/assets/img/debyani_chakravarty.jpeg"><br>
      Debyani Chakravarty<br>
-     MSKCCC
+     MSKCC
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/olivier_elemento.jpg"><br>

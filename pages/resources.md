@@ -11,8 +11,7 @@ header:
 ---
 
 ### The VICC participation agreement
-If you are working to create cancer variant interpretations and would like to formally join the VICC, please consider signing 
-the VICC letter of support. 
+If you are working to create cancer variant interpretations and would like to formally join the VICC, please consider signing the VICC letter of support. 
 
 Please [contact us](/members/) to discuss further and submit a signed version to the VICC. The text of this agreement can be found here: [VICC_LoS_template.pdf](/assets/docs/VICC_LoS_template.pdf).
 
@@ -24,8 +23,20 @@ If you believe this list is missing a relevant resource or contains any inaccura
 ### Presentations
 * [GA4GH 5th Plenary VICC Driver Project Presentation](/assets/docs/VICC_GA4GH_5thPlenary.pdf)
 
+### Knowledgebase Tutorials
+Beth Pitel (Mayo Clinic) as part of her role in the [Cancer Genomics Consortium](https://www.cancergenomics.org) has developed an excellent series of educational tutorials for popular variant interpretation resources. 
+* [Compendium of Cancer Genome Aberrations](/assets/docs/tutorials/CCGA.pdf)
+* [Cancer Genome Interpreter](/assets/docs/tutorials/CGI.pdf) 
+* [CIViC - A Knowledgebase for Clinical Interpretation of Variants in Cancer](/assets/docs/tutorials/CIViC.pdf)
+* [Catalogue of Somatic Mutations in Cancer](/assets/docs/tutorials/COSMIC.pdf)
+* [Database of Curated Mutations](/assets/docs/tutorials/DoCM.pdf)
+* [IntOGen - Mutational Cancer Drivers Database](/assets/docs/tutorials/IntOGen.pdf)
+* [JAX-Clinical Knowledgebase](/assets/docs/tutorials/JAX_CKB.pdf)
+* [Mitelman Database of Chromosome Aberrations and Gene Fusions in Cancer](/assets/docs/tutorials/Mitelman.pdf)
+* [The Precision Medicine Knowledgebase](/assets/docs/tutorials/PMKB.pdf)
+
 ### Relevant git repositories
-[ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
+* [ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
 
 ### Related efforts/projects
 * [HGVS Specification](http://varnomen.hgvs.org/)
@@ -37,10 +48,10 @@ If you believe this list is missing a relevant resource or contains any inaccura
 * [ClinGen Curation Interfaces](https://curation.clinicalgenome.org/)
 * [ClinGen Pathogenicity Calculator](http://calculator.clinicalgenome.org/)
 * [SEPIO](https://github.com/monarch-initiative/SEPIO-ontology) (ontology for representing scientific evidence and provenance information)
+* [(Re)usable Data Project](http://reusabledata.org/)
 
 ### Precision medicine initiatives we hope to serve
-In addition to the molecular tumor boards at participating institutions with cancer variant knowledgebases the VICC also hope to help provide high quality clinical variant interpretations with any interested precision medicine effort. The following is a selected list of precision medicine efforts and cancer treatment centers we are actively engaged with: 
+In addition to the molecular tumor boards at participating institutions with cancer variant knowledgebases the VICC also hope to help provide high quality clinical variant interpretations with any interested precision medicine effort. The following is a selected list of precision medicine efforts and cancer treatment centers we are actively engaged with:
 * [Personalized Oncogenomics Program](http://www.personalizedoncogenomics.org/), BCCA, Vancouver BC.
 * [The Charité Comprehensive Cancer Center](https://www.charite.de/)
-
 
