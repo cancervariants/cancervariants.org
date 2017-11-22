@@ -19,11 +19,13 @@ If you would like to participate in the Virtual Tumor Board by submitting a hypo
     <input type="text" name="name" placeholder="Your Name">
     <textarea name="message" placeholder="Your message"></textarea>
     <select name="test" placeholder="test">
-      <option value="91" selected>India (+91)</option>
-      <option value="91" selected>India (+1)</option>
+      <option value="1" selected>R</option>
+      <option value="2" selected>Perl</option>
+      <option value="3" selected>c#</option>
+      <option value="4" selected>java</option>
     </select>
     <br>
     <br>
     <input type="submit" value="Send">
-    <input type="hidden" name="_next" value="//site.io/thanks.html" />
+    <input type="hidden" name="_next" value="http://www.cancervariants.org/redirect-page" />
 </form>
