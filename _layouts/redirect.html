@@ -13,7 +13,7 @@
 <html>
 <head>
 	{% include _head.html %}
-    <meta http-equiv="refresh" content="10; URL={{ page.redirect_to }}" />
+    <meta http-equiv="refresh" content="15; URL={{ page.redirect_to }}" />
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}
@@ -21,10 +21,10 @@
 	{% endunless %}
 
 	{% include _masthead.html %}
-      {{ site.data.language.if_you_are_not_redirected_automatically }} <a href="{{ page.redirect_to }}">{{ site.data.language.click_here }}</a>.
-
     <br>
 	{{ content }}
+
+	{{ site.data.language.if_you_are_not_redirected_automatically }} <a href="{{ page.redirect_to }}">{{ site.data.language.click_here }}</a>.
 
 	{% unless page.skip_boilerplate %}
 	{% include _footer.html %}
