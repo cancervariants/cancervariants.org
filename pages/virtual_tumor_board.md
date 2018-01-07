@@ -14,16 +14,3 @@ The VICC is currently working to launch a virtual tumor board. The purpose of th
 
 If you would like to participate in the Virtual Tumor Board by submitting a hypothetical case or discussing cases with the group, please [contact the VICC](/join/).
 
-<form action="https://formspree.io/zskidmor@wustl.edu" method="POST">
-    <input type="email" name="_replyto" placeholder="Your Email">
-    <input type="text" name="name" placeholder="Your Name">
-    <textarea name="message" placeholder="Your message"></textarea>
-    <select name="Position" placeholder="Your Position">
-      <option value="1" selected>Physician</option>
-      <option value="2" selected>Researcher</option>z
-    </select>
-    <br>
-    <br>
-    <input type="submit" value="Send">
-    <input type="hidden" name="_next" value="http://www.cancervariants.org/redirect-page" />
-</form>

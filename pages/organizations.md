@@ -62,10 +62,14 @@ To date we have secured commitments to share data from a number of key knowledge
     </a>
   </div>
   <div class="small-4 columns">
-
+    <a href="https://www.molecularmatch.com/">
+      <img src="/assets/img/MolecularMatch_Logo_RGB_Horizontal.jpg">
+    </a>
   </div>
   <div class="small-4 columns">
-
+    <a href="https://ckb.jax.org/">
+      <img src="/assets/img/jax_ckb.png">
+    </a>
   </div>
 </div>
 
@@ -76,9 +80,13 @@ To date we have secured commitments to share data from a number of key knowledge
       Affiliation: Institute of Precision Medicine, Weill Cornell Medicine
   </div>
   <div class="small-4 columns">
-
+      URL: <a href="https://www.molecularmatch.com">molecularmatch.com</a><br>
+      Key contact(s): Shirley Li<br>
+      Affiliation: Molecular Match
   </div>
   <div class="small-4 columns">
-
+      URL: <a href="https://ckb.jax.org/">ckb.jax.org</a><br>
+      Key contact(s): Susan Mockus<br>
+      Affiliation: The Jackson Laboratory
   </div>
 </div>

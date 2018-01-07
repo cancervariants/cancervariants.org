@@ -88,6 +88,28 @@ header:
 </div>
 
 <div class="row">
+  <div class="large-2 large-offset-1 columns" align="center">
+     <img src="/assets/img/shirley_li.jpg"><br>
+     Shirley Li<br>
+     Molecular Match
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/susan_mockus.jpg"><br>
+     Susan Mockus<br>
+     The Jackson Laboratory
+  </div>
+  <div class="large-2 columns" align="center">
+
+  </div>
+  <div class="large-2 columns" align="center">
+
+  </div>
+  <div class="large-2 columns end" align="center">
+
+  </div>
+</div>
+
+<div class="row">
     <div class="large-11 large-offset-1 columns">
         <h3>Knowledgebase Integration</h3>
     </div>
