@@ -138,9 +138,6 @@ header:
      
   </div>
   <div class="large-2 columns end" align="center">
-     <img src="/assets/img/"><br>
-     <br>
-     
   </div>
 </div>
 
