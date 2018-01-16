@@ -18,7 +18,7 @@ The VICC holds bi-weekly calls of all participants. These meetings serve several
 - Discussion of efforts to form a virtual tumor board. The goal of this exercise is to help drive our discussion of cancer variant interpretation standards and best practices.
 - Planning for grant submissions to support the work of VICC.
 
-Everyone is welcome to join these calls. If you would like to join, please contact the [VICC leadership](/members/) or the <a href="mailto:ga4gh-dwg-vic@genomicsandhealth.org">VICC mailing list</a>.
+Everyone is welcome to join these calls. If you would like to join, please contact the [VICC leadership](/members/) at the <a href="mailto:vicc_leaders@genomicsandhealth.org"> VICC leadership mailing list</a>.
 
 ### Adopt the VICC sharing principles
 If your organization is currently creating a knowledgebase of clinical interpretations of cancer variants, please considering formally joining the VICC by adopting the [VICC Guiding Principles](/principles/) and signing the [Letter of Support](/resources/).
