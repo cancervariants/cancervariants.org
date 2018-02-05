@@ -37,6 +37,7 @@ Beth Pitel (Mayo Clinic) as part of her role in the [Cancer Genomics Consortium]
 * [Mitelman Database of Chromosome Aberrations and Gene Fusions in Cancer](/assets/docs/tutorials/Mitelman.pdf)
 * [OncoKB - Precision Oncology Knowledge Base](/assets/docs/tutorials/OncoKB.pdf)
 * [The Precision Medicine Knowledgebase](/assets/docs/tutorials/PMKB.pdf)
+* [Pediatric Cancer Data Portal](/assets/docs/tutorials/PeCan_Data_Portal.pdf)
 
 ### Relevant git repositories
 * [ohsu-comp-bio/g2p-aggregator](https://github.com/ohsu-comp-bio/g2p-aggregator)
