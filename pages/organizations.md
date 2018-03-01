@@ -90,3 +90,19 @@ To date we have secured commitments to share data from a number of key knowledge
       Affiliation: The Jackson Laboratory
   </div>
 </div>
+
+<br>
+<div class="row">
+  <div class="small-4 columns">
+    <a href="http://www.bcgsc.ca/">
+      <img src="/assets/img/bc_logo.png">
+    </a>
+  </div>
+</div>
+<div class="row">
+  <div class="small-4 columns">
+      URL: <a href="http://www.bcgsc.ca/">www.bcgsc.ca</a><br>
+      Key contact(s): Steven Jones<br>
+      Affiliation: Michael Smith Genome Sciences Centre, BC Cancer Agency
+  </div>
+</div>
