@@ -101,7 +101,7 @@ header:
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/steven_jones.jpeg"><br>
      Steven Jones<br>
-     BC Cancer Agency
+     BC Cancer
 </div>
   <div class="large-2 columns" align="center">
 

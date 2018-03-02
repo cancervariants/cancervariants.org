@@ -103,6 +103,6 @@ To date we have secured commitments to share data from a number of key knowledge
   <div class="small-4 columns">
       URL: <a href="http://www.bcgsc.ca/">www.bcgsc.ca</a><br>
       Key contact(s): Steven Jones<br>
-      Affiliation: Michael Smith Genome Sciences Centre, BC Cancer Agency
+      Affiliation: BC Cancer
   </div>
 </div>
