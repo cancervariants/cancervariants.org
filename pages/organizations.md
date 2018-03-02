@@ -94,14 +94,14 @@ To date we have secured commitments to share data from a number of key knowledge
 <br>
 <div class="row">
   <div class="small-4 columns">
-    <a href="http://www.bcgsc.ca/">
+    <a href="http://www.bccancer.bc.ca/">
       <img src="/assets/img/bc_logo.png">
     </a>
   </div>
 </div>
 <div class="row">
   <div class="small-4 columns">
-      URL: <a href="http://www.bcgsc.ca/">www.bcgsc.ca</a><br>
+      URL: <a href="http://www.bccancer.bc.ca/">www.bccancer.bc.ca</a><br>
       Key contact(s): Steven Jones<br>
       Affiliation: BC Cancer
   </div>
