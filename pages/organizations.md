@@ -95,7 +95,7 @@ To date we have secured commitments to share data from a number of key knowledge
 <div class="row">
   <div class="small-4 columns">
     <a href="http://www.bccancer.bc.ca/">
-      <img src="/assets/img/bc_logo.png">
+      <img src="/assets/img/bc_logo_2.png">
     </a>
   </div>
 </div>
