@@ -102,7 +102,7 @@ header:
      <img src="/assets/img/steven_jones.jpeg"><br>
      Steven Jones<br>
      BC Cancer
-</div>
+  </div>
   <div class="large-2 columns" align="center">
 
   </div>
