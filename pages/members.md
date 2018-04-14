@@ -71,14 +71,14 @@ header:
      MSKCC
   </div>
   <div class="large-2 columns" align="center">
+     <img src="/assets/img/rodrigo-dienstmann.png"><br>
+     Rodrigo Dienstmann<br>
+     Vall D'Hebron
+  </div>
+  <div class="large-2 columns" align="center">
      <img src="/assets/img/olivier_elemento.jpg"><br>
      Olivier Elemento<br>
      Weill Cornell
-  </div>
-  <div class="large-2 columns" align="center">
-     <img src="/assets/img/ethan_cerami.jpeg"><br>
-     Ethan Cerami<br>
-     DFCI
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/catherine_del_vecchio_fitz.jpeg"><br>
@@ -97,6 +97,11 @@ header:
      <img src="/assets/img/susan_mockus.jpg"><br>
      Susan Mockus<br>
      The Jackson Laboratory
+  </div>
+  <div class="large-2 columns" align="center">
+    <img src="/assets/img/ethan_cerami.jpeg"><br>
+    Ethan Cerami<br>
+    DFCI
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/steven_jones.jpeg"><br>
