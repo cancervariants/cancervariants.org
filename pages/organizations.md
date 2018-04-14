@@ -50,7 +50,7 @@ To date we have secured commitments to share data from a number of key knowledge
   <div class="small-4 columns">
       URL: <a href="https://cancergenomeinterpreter.org">cancergenomeinterpreter.org</a><br>
       Key contact(s): Nuria Lopez-Bigas and David Tamborero<br>
-      Affiliation: Universitat Pompeu Fabra
+      Affiliation: Institute for Research in Biomedicine, Barcelona
   </div>
 </div>
 
