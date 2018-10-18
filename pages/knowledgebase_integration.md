@@ -18,4 +18,4 @@ The knowledgebase integration project is built upon the GA4GH [Genotype-to-Pheno
 
 We are actively developing a prototype cross-knowledgebase query interface, available at: [https://search.cancervariants.org/](https://search.cancervariants.org/).
 
-<img src="/assets/img/g2p_prototype.png">
+<img src="/assets/img/vicc_strategy.png">
