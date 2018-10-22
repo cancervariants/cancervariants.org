@@ -23,4 +23,3 @@ Everyone is welcome to join these calls. If you would like to join, please conta
 ### Adopt the VICC sharing principles
 If your organization is currently creating a knowledgebase of clinical interpretations of cancer variants, please considering formally joining the VICC by adopting the [VICC Guiding Principles](/principles/) and signing the [Letter of Support](/resources/).
 
-
