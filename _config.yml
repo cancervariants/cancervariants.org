@@ -39,7 +39,7 @@ improve_content: https://github.com/genome/vicc/edit/master/
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://cancervariants.org/images/'
+urlimg: 'https://cancervariants.org/images/'
 
 
 # Logo size is 600x80 pixels
