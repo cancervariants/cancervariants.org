@@ -31,3 +31,8 @@ Aim 2.2 Implement clinical trial query system. Building on the Clinical Trial Ma
 
 Aim 2.3 Implement web application for result exploration and report generation. We will develop capability to display clinically actionable recommendations based on cross-knowledgebase queries and accept contributions through a shared interface.
 
+### VICC Research Scope
+
+The VICC has expanded its research scope to encompass several related areas of research in support of its mission to deliver actionable consensus clinical interpretations, in collaboration with expert groups of the Global Alliance for Genomics and Health ([GA4GH](https://www.ga4gh.org/)) and Clinical Genome Resource ([ClinGen](https://www.clinicalgenome.org/)). This scope is outlined below:
+
+![research](/assets/img/VICC_research_only.png)
