@@ -19,9 +19,9 @@ The VICC holds bi-weekly calls of all participants. These meetings serve several
 
 Everyone is welcome to join these calls. If you would like to join, please:
 
-1) Fill out the [research interests and availability survey](https://forms.gle/Fizjbr4cscfySHec6).
-2) Apply for membership to the VICC All Member [mailing list](https://groups.google.com/forum/#!forum/vicc-all)
-3) Join our biweekly calls! (Most recently March 26, 2019, with rescheduling under evaluation)
+1. Fill out the [research interests and availability survey](https://forms.gle/Fizjbr4cscfySHec6).
+2. Apply for membership to the VICC All Member [mailing list](https://groups.google.com/forum/#!forum/vicc-all)
+3. Join our biweekly calls! (Most recently March 26, 2019, with rescheduling under evaluation)
 
 ### Adopt the VICC sharing principles
 If your organization is currently creating a knowledgebase of clinical interpretations of cancer variants, please considering formally joining the VICC by adopting the [VICC Guiding Principles](/principles/) and signing the [Letter of Support](/resources/).
