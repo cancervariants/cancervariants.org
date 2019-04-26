@@ -50,7 +50,7 @@ To date we have secured commitments to share data from a number of key knowledge
   <div class="small-4 columns">
       URL: <a href="https://cancergenomeinterpreter.org">cancergenomeinterpreter.org</a><br>
       Key contact(s): Nuria Lopez-Bigas and David Tamborero<br>
-      Affiliation: Universitat Pompeu Fabra
+      Affiliation: Institute for Research in Biomedicine, Barcelona
   </div>
 </div>
 
@@ -90,3 +90,57 @@ To date we have secured commitments to share data from a number of key knowledge
       Affiliation: The Jackson Laboratory
   </div>
 </div>
+
+<br>
+<div class="row">
+  <div class="small-4 columns">
+    <a href="http://www.bccancer.bc.ca/">
+      <img src="/assets/img/bc_logo_2.png">
+    </a>
+  </div>
+  <div class="small-4 columns">
+      <a href="https://brcaexchange.org/">
+        <img src="/assets/img/brca_logo.jpg">
+      </a>
+    </div>
+</div>
+
+<div class="row">
+  <div class="small-4 columns">
+      URL: <a href="http://www.bccancer.bc.ca/">www.bccancer.bc.ca</a><br>
+      Key contact(s): Steven Jones<br>
+      Affiliation: BC Cancer
+  </div>
+  <div class="small-4 columns">
+    URL: <a href="https://brcaexchange.org/">brcaexchange.org</a><br>
+    Key contact(s): Melissa Cline<br>
+    Affiliation: BRCA Exchange
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+    <div class="small-12 columns">
+        <h3>Software Development</h3>
+    </div><!-- /.small-12.columns -->
+</div>
+
+
+<div class="row">
+    <div class="small-4 columns">
+        <a href="https://apps.ohsu.edu/health/knight-cancer/index.html">
+          <img src="/assets/img/OHSU_logo.png">
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="small-4 columns">
+      URL: <a href="https://apps.ohsu.edu/health/knight-cancer/index.html">https://apps.ohsu.edu/health/knight-cancer/index.html</a><br>
+      Key contact(s): Jeremy Goecks<br>
+      Affiliation: OHSU Knight Cancer Institute
+    </div>
+</div>
+
+<br>

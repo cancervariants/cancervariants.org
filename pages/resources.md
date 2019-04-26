@@ -21,7 +21,7 @@ There are now quite a number of high quality cancer variant knowledgebases that 
 If you believe this list is missing a relevant resource or contains any inaccuracies, please [contact us](/members/).
 
 ### Presentations
-* [GA4GH 5th Plenary VICC Driver Project Presentation](/assets/docs/VICC_GA4GH_5thPlenary.pdf)
+* [GA4GH 5th Plenary VICC Driver Project Presentation](/assets/docs/VICC_GA4GH_5thPlenary.pdf) ([Video](https://youtu.be/Uq75QalUu1o))
 
 ### Knowledgebase Tutorials
 Beth Pitel (Mayo Clinic) as part of her role in the [Cancer Genomics Consortium](https://www.cancergenomics.org) has developed an excellent series of educational tutorials for popular variant interpretation resources. 
