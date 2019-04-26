@@ -11,17 +11,8 @@ header:
 ---
 
 <div class="row">
-    <div class="large-11 large-offset-1 columns">
-        <h3>Leadership</h3>
-    </div>
-</div>
-
-<div class="row">
-  <div class="large-8 large-offset-1 columns" align="center">
-     <h4>Variant Interpretation for Cancer Consortium (VICC)</h4>
-  </div>
-  <div class="large-2 columns end" align="center">
-     <h4>G2P</h4>
+  <div class="large-11 large-offset-1 columns">
+      <h3>Consortium Leadership</h3>
   </div>
 </div>
 
@@ -36,27 +27,92 @@ header:
      Malachi Griffith<br>
      WashU
   </div>
-  <div class="large-2 columns" align="center">
-     <img src="/assets/img/nuria_lopez_bigas.jpg"><br>
-     Nuria Lopez-Bigas<br>
-     IRB
-  </div>
-  <div class="large-2 columns" align="center">
-     <img src="/assets/img/david_tamborero.jpg"><br>
-     David Tamborero<br>
-     IRB
-  </div>
   <div class="large-2 columns end" align="center">
-      <img src="/assets/img/adam_margolin.jpg"><br>
-      Adam Margolin<br>
-      OHSU
+     <img src="/assets/img/alex_wagner.jpeg"><br>
+     Alex Wagner<br>
+     WashU
   </div>
 </div>
 
 <div class="row">
-    <div class="large-11 large-offset-1 columns">
-        <h3>Key Knowledgebase Partners</h3>
-    </div>
+  <div class="large-11 large-offset-1 columns">
+     <h3>Working Group Leads</h3>
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-2 large-offset-1 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Santiago Gonzalez<br>
+     IRB
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Melissa Haendel<br>
+     Oregon State University
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Peter Horak<br>
+     NCT
+  </div>
+  <div class="large-2 columns end" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Ian King<br>
+     UHN
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-2 large-offset-1 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Shirley Li<br>
+     SunQuest
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Chris Mungall<br>
+     Berkeley Lab
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Peter Robinson<br>
+     The Jackson Laboratory
+  </div>
+  <div class="large-2 columns end" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Peter Rogan<br>
+     Western University
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-2 large-offset-1 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Lynn Schriml<br>
+     University of Maryland
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Dmitriy Sonkin<br>
+     NCI
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Alex Wagner<br>
+     WashU
+  </div>
+  <div class="large-2 columns end" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Jeremy Warner<br>
+     Vanderbilt
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-11 large-offset-1 columns">
+     <h3>Key Knowledgebase Partners</h3>
+  </div>
 </div>
 
 <div class="row">
@@ -75,22 +131,17 @@ header:
      Rodrigo Dienstmann<br>
      Vall D'Hebron
   </div>
-  <div class="large-2 columns" align="center">
+  <div class="large-2 columns end" align="center">
      <img src="/assets/img/olivier_elemento.jpg"><br>
      Olivier Elemento<br>
      Weill Cornell
-  </div>
-  <div class="large-2 columns end" align="center">
-     <img src="/assets/img/catherine_del_vecchio_fitz.jpeg"><br>
-     Catherine Del Vecchio Fitz<br>
-     DFCI
   </div>
 </div>
 
 <div class="row">
   <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/shirley_li.jpg"><br>
-     Shirley Li<br>
+     <img src="/assets/img/user.jpg"><br>
+     Ryan Duren<br>
      Molecular Match
   </div>
   <div class="large-2 columns" align="center">
@@ -99,29 +150,41 @@ header:
      The Jackson Laboratory
   </div>
   <div class="large-2 columns" align="center">
-    <img src="/assets/img/ethan_cerami.jpeg"><br>
-    Ethan Cerami<br>
-    DFCI
+     <img src="/assets/img/ethan_cerami.jpeg"><br>
+     Ethan Cerami<br>
+     DFCI
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/steven_jones.jpeg"><br>
      Steven Jones<br>
      BC Cancer
   </div>
-  <div class="large-2 columns" align="center">
+</div>
 
+<div class="row">
+    <div class="large-11 large-offset-1 columns">
+        <h3>Virtual Tumor Board Leads</h3>
+    </div>
+</div>
+
+<div class="row">
+  <div class="large-2 large-offset-1 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Shruti Rao<br>
+     Georgetown
   </div>
   <div class="large-2 columns" align="center">
-
+     <img src="/assets/img/user.jpg"><br>
+     Beth Pitel<br>
+     Mayo
   </div>
   <div class="large-2 columns end" align="center">
-
   </div>
 </div>
 
 <div class="row">
     <div class="large-11 large-offset-1 columns">
-        <h3>Knowledgebase Integration</h3>
+        <h3>Knowledgebase Integration Leads</h3>
     </div>
 </div>
 
@@ -136,26 +199,8 @@ header:
      Brian Walsh<br>
      OHSU
   </div>
-  <div class="large-2 columns" align="center">
-     <img src="/assets/img/jeremy_goecks.png"><br>
-     Jeremy Goecks<br>
-     OHSU
-  </div>
-  <div class="large-2 columns" align="center">
-     <img src="/assets/img/georgia_mayfield.png"><br>
-     Georgia Mayfield<br>
-     OHSU
-     
-  </div>
   <div class="large-2 columns end" align="center">
   </div>
-</div>
-
-<div class="row">
-    <div class="large-11 large-offset-1 columns">
-        <h3>Virtual Tumor Board</h3>
-        <h4>Coming soon ... Seeking key partners</h4>
-    </div>
 </div>
 
 <div class="row">
