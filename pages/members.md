@@ -66,14 +66,14 @@ header:
 
 <div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/shirley_li.jpg"><br>
      Shirley Li<br>
      SunQuest<br>
      KCIS WG Leader<br>
      Search WG Leader
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/chris_mungall.jpg"><br>
      Chris Mungall<br>
      Berkeley Lab<br>
      AI WG Leader<br>
