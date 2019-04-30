@@ -10,106 +10,132 @@ header:
   background-color: "#18252B"
 ---
 
-<div class="row">
+<div class="row" style="padding-bottom: 10px">
   <div class="large-11 large-offset-1 columns">
       <h3>Consortium Leadership</h3>
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/obi_griffith.jpg"><br>
      Obi Griffith<br>
-     WashU
+     Washington U<br>
+     Founder, Co-lead
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/malachi_griffith3.jpg"><br>
      Malachi Griffith<br>
-     WashU
+     Washington U<br>
+     Founder, Co-lead
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/alex_wagner.jpeg"><br>
      Alex Wagner<br>
-     WashU
+     Washington U<br>
+     Co-lead
   </div>
 </div>
 
-<div class="row">
-  <div class="large-11 large-offset-1 columns">
-     <h3>Working Group Leads</h3>
-  </div>
-</div>
-
-<div class="row">
+<div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/user.jpg"><br>
      Santiago Gonzalez<br>
-     IRB
+     IRB Barcelona<br>
+     ISPI WG Leader
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/melissa_haendel.jpg"><br>
      Melissa Haendel<br>
-     Oregon State University
+     Oregon St. U<br>
+     DL WG Leader
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/peter_horak.jpg"><br>
      Peter Horak<br>
-     NCT
+     NCT-Heidelberg<br>
+     KCIS WG Leader
   </div>
   <div class="large-2 columns end" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/ian_king.jpg"><br>
      Ian King<br>
-     UHN
+     UHN, U of Toronto<br>
+     AI WG Leader
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/user.jpg"><br>
      Shirley Li<br>
-     SunQuest
+     SunQuest<br>
+     KCIS WG Leader<br>
+     Search WG Leader
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/user.jpg"><br>
      Chris Mungall<br>
-     Berkeley Lab
+     Berkeley Lab<br>
+     AI WG Leader<br>
+     DisH WG Leader
   </div>
-  <div class="large-2 columns" align="center">
+    <div class="large-2 columns" align="center">
      <img src="/assets/img/user.jpg"><br>
-     Peter Robinson<br>
-     The Jackson Laboratory
+     Beth Pitel<br>
+     Mayo Clinic<br>
+     VTB Project Leader
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/user.jpg"><br>
-     Peter Rogan<br>
-     Western University
+     Shruti Rao<br>
+     Georgetown<br>
+     VTB Project Leader
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/user.jpg"><br>
-     Lynn Schriml<br>
-     University of Maryland
+     Peter Robinson<br>
+     Jackson Lab<br>
+     AI WG Leader<br>
+     DisH WG Leader
   </div>
   <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Peter Rogan<br>
+     U Western Ontario<br>
+     ISPI WG Leader
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/user.jpg"><br>
+     Lynn Schriml<br>
+     U Maryland<br>
+     DisH WG Leader
+  </div>
+  <div class="large-2 columns end" align="center">
      <img src="/assets/img/user.jpg"><br>
      Dmitriy Sonkin<br>
-     NCI
+     NCI<br>
+     KCIS WG Leader
   </div>
-  <div class="large-2 columns" align="center">
+</div>
+<div>
+  <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/user.jpg"><br>
-     Alex Wagner<br>
-     WashU
+     Brian Walsh<br>
+     OHSU<br>
+     MetaKB Leader
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/user.jpg"><br>
      Jeremy Warner<br>
-     Vanderbilt
+     Vanderbilt<br>
+     DrH WG Leader
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-bottom: 10px">
   <div class="large-11 large-offset-1 columns">
      <h3>Key Knowledgebase Partners</h3>
   </div>
@@ -138,7 +164,7 @@ header:
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/user.jpg"><br>
      Ryan Duren<br>
@@ -147,7 +173,7 @@ header:
   <div class="large-2 columns" align="center">
      <img src="/assets/img/susan_mockus.jpg"><br>
      Susan Mockus<br>
-     The Jackson Laboratory
+     Jackson Lab
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/ethan_cerami.jpeg"><br>
@@ -161,49 +187,7 @@ header:
   </div>
 </div>
 
-<div class="row">
-    <div class="large-11 large-offset-1 columns">
-        <h3>Virtual Tumor Board Leads</h3>
-    </div>
-</div>
-
-<div class="row">
-  <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
-     Shruti Rao<br>
-     Georgetown
-  </div>
-  <div class="large-2 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
-     Beth Pitel<br>
-     Mayo
-  </div>
-  <div class="large-2 columns end" align="center">
-  </div>
-</div>
-
-<div class="row">
-    <div class="large-11 large-offset-1 columns">
-        <h3>Knowledgebase Integration Leads</h3>
-    </div>
-</div>
-
-<div class="row">
-  <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/alex_wagner.jpeg"><br>
-     Alex Wagner<br>
-     WashU
-  </div>
-  <div class="large-2 columns" align="center">
-     <img src="/assets/img/brian_walsh.jpg"><br>
-     Brian Walsh<br>
-     OHSU
-  </div>
-  <div class="large-2 columns end" align="center">
-  </div>
-</div>
-
-<div class="row">
+<div class="row" style="padding-bottom: 10px">
     <div class="large-11 large-offset-1 columns">
         <h3>Consortium Participants (Past and Present)</h3>
         <p>Benjamin Ainscough, Tero Aittokallio, Larry Babb, Michael Baudis, Jacques Beckmann, Anas Belouali, Andrew Biankin, Michael Bouziner, Lynn Brazil, Steven Brenner, Alberto Cambrosio, Jonah Campbell, Ethan Cerami, Debyani Chakravarty, David Chang, Brad Chapman, Justina Chung, Chris Corless, Melanie Courtot, Fiona Cunningham, Rob Currie, Catherine del Vecchio Fitz, Jordi Deu Pons, Rodrigo Dienstmann, Kenneth Doig, Lena Dolman, Ryan Duren, Daniel Durkin, Olivier Elemento, Jonathan Ellis, Kyle Ellrott, Robert Freimuth, Jianjiong Gao, Moritz Gerstung, Bailey Glen, William Glen, Jeremy Goecks, Santiago Gonzalez, Sara Gosline, Malachi Griffith, Obi Griffith, Melissa Haendel, Maximilian Haeussler, David Haussler, David Heckerman, Oliver Hofmann, Peter Horak, Sarah Hunt, Mark Jensen, Peter Keating, Ian King, Kilannin Krysiak, Melissa Landrum, Mark Lawler, Michele LeNoue-Newton, Aitana Lebrand, Paul Leo, Koh Liang Kai, Rachel Liao, Nuria Lopez-Bigas, Subha Madhavan, Adam Margolin, David Masica, Georgia Mayfield, Julie McMurry, Christine Micheel, Susan Mockus, Chris Mungall, Kevin Osborn, Ravi Pandya, Sara Patterson, Beth Pitel, Gordana Raca, Erin Ramos, Shruti Rao, Damian Rieke, Deborah Ritter, Peter Robinson, Peter Rogan, Jeffrey Rosenfeld, Sameek Roychowdhury, Gabe Rudy, Chris Sander, Andrea Sboner, Lynn Schriml, Nikolaus Schultz, Alexander Senf, Ozman Ugur Sezerman, Mamatha Shekar, Xuan Shirley Li, Lillian Siu, Heidi Sofia, Dmitriy Sonkin, Vipin Sreedharan, Daniel Stekhoven, Greg Stupp, Andrew Su, David Tamborero, Bin Tean Teh, Nora Toussaint, Eli Van Allen, Etienne Vignola-Gagné, Ioannis Vlachos, Andra Waagmeester, Alex Wagner, Brian Walsh, Jeremy Warner, Joachim Weischenfeldt, Trish Whetzel, Julia Wilson, Chunlei Wu, Andy Yates, Andrey Zapariy, Alexander Wait Zaranek, Zhenyu Zhang.</p>
