@@ -2,7 +2,7 @@
 title: "A website that doesn't exit"
 layout: redirect
 sitemap: false
-permalink: /redirect-page/
+permalink: /redirect-page
 redirect_to:  "/index.html"
 header:
   image: "VICC_color_combo_v2.png"
