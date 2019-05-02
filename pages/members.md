@@ -120,7 +120,7 @@ header:
      KCIS WG Leader
   </div>
 </div>
-<div>
+<div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/brian_walsh.jpg"><br>
      Brian Walsh<br>
