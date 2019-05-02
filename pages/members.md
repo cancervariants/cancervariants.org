@@ -141,7 +141,7 @@ header:
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
      <img src="/assets/img/nikolaus_schultz.jpg"><br>
      Nikolaus Schultz<br>
