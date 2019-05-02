@@ -80,13 +80,13 @@ header:
      DisH WG Leader
   </div>
     <div class="large-2 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/beth_pitel.jpg"><br>
      Beth Pitel<br>
      Mayo Clinic<br>
      VTB Project Leader
   </div>
   <div class="large-2 columns end" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/shruti_rao.jpg"><br>
      Shruti Rao<br>
      Georgetown<br>
      VTB Project Leader
@@ -95,26 +95,26 @@ header:
 
 <div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/peter_robinson.jpg"><br>
      Peter Robinson<br>
      Jackson Lab<br>
      AI WG Leader<br>
      DisH WG Leader
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/peter_rogan.jpg"><br>
      Peter Rogan<br>
      U Western Ontario<br>
      ISPI WG Leader
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/lynn_schriml.jpg"><br>
      Lynn Schriml<br>
      U Maryland<br>
      DisH WG Leader
   </div>
   <div class="large-2 columns end" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/dmitriy_sonkin.jpg"><br>
      Dmitriy Sonkin<br>
      NCI<br>
      KCIS WG Leader
@@ -122,13 +122,13 @@ header:
 </div>
 <div>
   <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/brian_walsh.jpg"><br>
      Brian Walsh<br>
      OHSU<br>
      MetaKB Leader
   </div>
   <div class="large-2 columns end" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/jeremy_warner.jpg"><br>
      Jeremy Warner<br>
      Vanderbilt<br>
      DrH WG Leader
@@ -166,7 +166,7 @@ header:
 
 <div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/ryan_duren.jpg"><br>
      Ryan Duren<br>
      Molecular Match
   </div>
