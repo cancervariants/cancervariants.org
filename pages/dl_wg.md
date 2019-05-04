@@ -12,7 +12,7 @@ header:
 
 
 ## Objectives
-This working group will focus on requirements, strategies, and implementations for aggregating data with mixed usage licenses.
+This working group will focus on requirements, strategies, and implementations for aggregating data with mixed usage licenses. This work will be accomplished in partnership with the [REWS](https://www.ga4gh.org/work_stream/regulatory-ethics/) and [DURI](https://www.ga4gh.org/work_stream/data-use-researcher-identities-duri-2/) workstreams of the GA4GH. Initial work will be based on evaluation of licenses curated by the [Reusable Data Project](http://reusabledata.org/).
 
 
 ## Logistics
