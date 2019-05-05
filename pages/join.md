@@ -12,11 +12,11 @@ header:
 
 ### Join the discussion
 The VICC holds bi-weekly calls of all participants. These meetings serve several purposes:
-- Update presentations from the VICC working groups.
+- Update presentations from the VICC [working groups](/wg).
 - Presentations from existing cancer knowledgebases. These presentations help to increase awareness of otherwise siloed 
  efforts. Each presentation is followed by discussion of developing standards, ontologies, and APIs.
 - Input from industry partners and other interested parties.
-- Discussion of [ongoing VICC projects](/projects/).
+- Discussion of [ongoing VICC projects](/projects).
 - Planning for grant submissions to support the work of VICC.
 
 Everyone is welcome to join these calls. If you would like to join, please:

@@ -17,3 +17,17 @@ of effort and leverage domain expertise. Working group objectives, organizationa
 described in the below pages:
 
 * [AI-Assisted Curation](/wg/ai)
+
+* [Knowledge Curation and Interpretation Standards](/wg/kcis)
+
+* [Data Licensing](/wg/dl)
+
+* [Disease Harmonization](/wg/dish)
+
+* [Drug Harmonization](/wg/drh)
+
+* [In-silico Prediction Implementation](/wg/ispi)
+
+* [Search](/wg/search)
+
+* [Variant Harmonization](/wg/vh)
