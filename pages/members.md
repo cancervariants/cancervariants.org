@@ -4,7 +4,7 @@ title: "Members"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/members/"
+permalink: "/members"
 header:
   image: "VICC_color_combo_v2.png"
   background-color: "#18252B"
@@ -39,7 +39,7 @@ header:
 
 <div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
-     <img src="/assets/img/user.jpg"><br>
+     <img src="/assets/img/santiago_gonzalez.jpg"><br>
      Santiago Gonzalez<br>
      IRB Barcelona<br>
      ISPI WG Leader

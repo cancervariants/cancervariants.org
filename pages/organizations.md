@@ -4,7 +4,7 @@ title: "Organizations"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/organizations/"
+permalink: "/organizations"
 header:
   image: "VICC_color_combo_v2.png"
   background-color: "#18252B"
