@@ -12,7 +12,7 @@ header:
 
 
 ## Objectives
-This working group will focus on requirements, strategies, and implementation of drug and therapy harmonization across the VICC knowledgebases.
+This working group will focus on requirements, strategies, and implementation of variant representation and harmonization across the VICC knowledgebases. This work is being done in partnership with the GA4GH [Genomic Knowledge Standards](https://ga4gh-gks.github.io/) workstream.
 
 ## Logistics
 
