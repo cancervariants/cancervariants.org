@@ -27,3 +27,9 @@ The Global Alliance for Genomic Health (GA4GH) has worked over the past several 
 - To avoid patient data privacy concerns, the project will focus initially on clinical interpretations derived from published findings (literature, conference proceedings, and clinical trial records), not individual patient/variant-level observations.
 - Data sharing will be facilitated by use of appropriate schemas, APIs, and demonstration implementations in accordance with the recommendations of the respective workstreams for determining those standards.
 - The VICC will make available bulk downloads of all cross-knowledgebase interpretations to facilitate data mining.
+
+## VICC Policies
+
+Standards for Professional Conduct ([Draft](https://docs.google.com/document/d/1ZOFUKQ-ZSuy4-L9WXtsNDAte4oN4WosGxxHnzoaYmyo/edit))
+
+Authorship Policy ([Draft](https://docs.google.com/document/d/18kEfDq982js2N7kAxyaQv3OW9ZUaQTY9Lh4bHjtCbps/edit))
