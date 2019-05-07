@@ -20,11 +20,15 @@ The Global Alliance for Genomic Health (GA4GH) has worked over the past several 
 
 ## VICC Guiding Principles
 
-- While each individual knowledgebase will likely continue to exist to service the specific needs of each institution, there is clear value and necessity in sharing knowledge of cancer type-variant-drug associations. Such sharing will increase confidence where interpretations overlap, fill gaps, reduce redundancy, and leverage disparate domain expertise.
+- While each individual knowledgebase will likely continue to exist to service the specific needs of each institution, there is clear value and necessity in sharing knowledge of cancer type-variant associations. Such sharing will increase confidence where interpretations overlap, fill gaps, reduce redundancy, and leverage disparate domain expertise.
 - A minimal set of data elements for sharing interpretations is required. Each institute will commit to including at least these minimal elements in their curation data model.
 - Each institute will share all or a significant proportion of interpretations (with at least the minimal required data elements) accumulated by their current curation efforts. This will require releasing content under permissive licenses (free and non-exclusive for at least research use) and providing documented public APIs for data access.
 - Building on software developed for independent efforts will be critical to create a community resource. Therefore, software will be released in public repositories with open source licenses.
 - To avoid patient data privacy concerns, the project will focus initially on clinical interpretations derived from published findings (literature, conference proceedings, and clinical trial records), not individual patient/variant-level observations.
-- Data sharing will be facilitated by use of the [Genotype-to-Phenotype](http://ga4gh-schemas.readthedocs.io/en/latest/api/genotypephenotype.html) schemas, APIs and demonstration implementations.
+- Data sharing will be facilitated by use of appropriate schemas, APIs, and demonstration implementations in accordance with the recommendations of the respective workstreams for determining those standards.
 - The VICC will make available bulk downloads of all cross-knowledgebase interpretations to facilitate data mining.
 
+## VICC Policies
+
+* Standards for Professional Conduct ([Draft](https://docs.google.com/document/d/1ZOFUKQ-ZSuy4-L9WXtsNDAte4oN4WosGxxHnzoaYmyo/edit))
+* Authorship Policy ([Draft](https://docs.google.com/document/d/18kEfDq982js2N7kAxyaQv3OW9ZUaQTY9Lh4bHjtCbps/edit))

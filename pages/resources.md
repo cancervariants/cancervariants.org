@@ -10,7 +10,7 @@ header:
   background-color: "#18252B"
 ---
 
-### The VICC participation agreement
+### The VICC knowledgebase participation agreement
 If you are working to create cancer variant interpretations and would like to formally join the VICC, please consider signing the VICC letter of support. 
 
 Please [contact us](/members/) to discuss further and submit a signed version to the VICC. The text of this agreement can be found here: [VICC_LoS_template.pdf](/assets/docs/VICC_LoS_template.pdf).

@@ -21,19 +21,21 @@ header:
      <img src="/assets/img/obi_griffith.jpg"><br>
      Obi Griffith<br>
      Washington U<br>
-     Founder, Co-lead
+     VICC Founder<br> 
+     VICC Co-lead
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/malachi_griffith3.jpg"><br>
      Malachi Griffith<br>
      Washington U<br>
-     Founder, Co-lead
+     VICC Founder<br> 
+     VICC Co-lead
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/alex_wagner.jpeg"><br>
      Alex Wagner<br>
      Washington U<br>
-     Co-lead
+     VICC Co-lead
   </div>
 </div>
 
@@ -184,6 +186,33 @@ header:
      <img src="/assets/img/steven_jones.jpeg"><br>
      Steven Jones<br>
      BC Cancer
+  </div>
+</div>
+
+<div class="row" style="padding-bottom: 10px">
+  <div class="large-11 large-offset-1 columns">
+     <h3>Former Leadership</h3>
+  </div>
+</div>
+
+<div class="row" style="padding-bottom: 30px">
+  <div class="large-2 large-offset-1 columns" align="center">
+     <img src="/assets/img/nuria_lopez_bigas.jpg"><br>
+     Nuria Lopes-Bigas<br>
+     IRB Barcelona<br>
+     VICC Founder
+  </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/david_tamborero.jpg"><br>
+     David Tamborero<br>
+     IRB Barcelona<br>
+     VICC Founder
+  </div>
+  <div class="large-2 columns end" align="center">
+     <img src="/assets/img/adam_margolin.jpg"><br>
+     Adam Margolin<br>
+     OHSU<br>
+     G2P Leader
   </div>
 </div>
 
