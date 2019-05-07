@@ -30,6 +30,5 @@ The Global Alliance for Genomic Health (GA4GH) has worked over the past several 
 
 ## VICC Policies
 
-Standards for Professional Conduct ([Draft](https://docs.google.com/document/d/1ZOFUKQ-ZSuy4-L9WXtsNDAte4oN4WosGxxHnzoaYmyo/edit))
-
-Authorship Policy ([Draft](https://docs.google.com/document/d/18kEfDq982js2N7kAxyaQv3OW9ZUaQTY9Lh4bHjtCbps/edit))
+* Standards for Professional Conduct ([Draft](https://docs.google.com/document/d/1ZOFUKQ-ZSuy4-L9WXtsNDAte4oN4WosGxxHnzoaYmyo/edit))
+* Authorship Policy ([Draft](https://docs.google.com/document/d/18kEfDq982js2N7kAxyaQv3OW9ZUaQTY9Lh4bHjtCbps/edit))
