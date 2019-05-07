@@ -22,7 +22,8 @@ The VICC holds bi-weekly calls of all participants. These meetings serve several
 Everyone is welcome to join these calls. If you would like to join, please:
 
 1. Apply for membership to the VICC All Member [mailing list](https://groups.google.com/forum/#!forum/vicc-all).
-2. Join our calls, every other Tuesday from 10-11 AM CT. [Add our calendar](https://calendar.google.com/calendar?cid=aG9xYmVrZWY0ODJpODJxY2hvZDM0aWNmbGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for details of these and 
+2. Join our [Slack Group](http://bit.ly/vicc-slack)
+3. Join our calls, every other Tuesday from 10-11 AM CT. [Add our calendar](https://calendar.google.com/calendar?cid=aG9xYmVrZWY0ODJpODJxY2hvZDM0aWNmbGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for details of these and 
 other VICC calls.
 
 ### Adopt the VICC sharing principles
