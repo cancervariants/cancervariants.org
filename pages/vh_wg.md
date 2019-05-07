@@ -20,3 +20,7 @@ This working group will focus on requirements, strategies, and implementation of
 [Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-vh-wg)
 
 Meeting times and locations to be determined
+
+## Working Group Leads
+
+Alex Wagner

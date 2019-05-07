@@ -19,3 +19,9 @@ This working group will focus on AI methods for curation and inference of clinic
 [Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-ispi-wg)
 
 Meeting times and locations to be determined
+
+## Working Group Leads
+
+Ian King
+Chris Mungall
+Peter Robinson

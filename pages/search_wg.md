@@ -19,3 +19,8 @@ This working group will focus on requirements, strategies, and implementation of
 [Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-search-wg)
 
 Meeting times and locations to be determined
+
+## Working Group Leads
+
+Shirley Li
+Alex Wagner

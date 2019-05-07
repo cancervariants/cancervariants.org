@@ -19,3 +19,8 @@ This working group will focus on methods for the prediction of biological conseq
 [Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-ispi-wg)
 
 Meeting times and locations to be determined
+
+## Working Group Leads
+
+Santiago Gonzalez
+Peter Rogan

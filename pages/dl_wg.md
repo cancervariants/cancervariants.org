@@ -20,3 +20,8 @@ This working group will focus on requirements, strategies, and implementations f
 [Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-dl-wg)
 
 Meeting times and locations to be determined
+
+## Working Group Leads
+
+Melissa Haendel
+Alex Wagner
