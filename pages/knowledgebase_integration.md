@@ -22,5 +22,5 @@ We are actively developing a prototype cross-knowledgebase query interface, avai
 
 ## Project Leads
 
-* Brian Walsh
 * Alex Wagner
+* Brian Walsh
