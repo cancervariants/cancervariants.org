@@ -23,4 +23,4 @@ Meeting times and locations to be determined
 
 ## Working Group Leads
 
-Alex Wagner
+* Alex Wagner

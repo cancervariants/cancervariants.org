@@ -22,6 +22,6 @@ Meeting times and locations to be determined
 
 ## Working Group Leads
 
-Chris Mungall
-Peter Robinson
-Lynn Schriml
+* Chris Mungall
+* Peter Robinson
+* Lynn Schriml

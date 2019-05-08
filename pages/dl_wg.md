@@ -23,5 +23,5 @@ Meeting times and locations to be determined
 
 ## Working Group Leads
 
-Melissa Haendel
-Alex Wagner
+* Melissa Haendel
+* Alex Wagner

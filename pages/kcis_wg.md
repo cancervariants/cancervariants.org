@@ -22,6 +22,6 @@ Meeting times and locations to be determined
 
 ## Working Group Leads
 
-Peter Horak
-Shirley Li
-Dmitriy Sonkin
+* Peter Horak
+* Shirley Li
+* Dmitriy Sonkin

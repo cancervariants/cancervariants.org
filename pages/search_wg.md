@@ -22,5 +22,5 @@ Meeting times and locations to be determined
 
 ## Working Group Leads
 
-Shirley Li
-Alex Wagner
+* Shirley Li
+* Alex Wagner

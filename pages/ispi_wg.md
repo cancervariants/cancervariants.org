@@ -22,5 +22,5 @@ Meeting times and locations to be determined
 
 ## Working Group Leads
 
-Santiago Gonzalez
-Peter Rogan
+* Santiago Gonzalez
+* Peter Rogan

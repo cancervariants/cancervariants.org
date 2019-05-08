@@ -19,3 +19,8 @@ The six knowledgebases of the VICC have been independently created to curate the
 The knowledgebase integration project is built upon the GA4GH [Genotype-to-Phenotype framework](http://ga4gh-schemas.readthedocs.io/en/latest/api/genotypephenotype.html). The intent of the project is to leverage the collective knowledge of the disparate existing resources of the VICC to improve the comprehensiveness of clinical interpretation of genomic variation. An ongoing goal will be to provide and improve upon standards and guidelines by which other groups with clinical interpretation data may make it accessible and visible to the public. We have [released a preprint](https://www.biorxiv.org/content/early/2018/07/11/366856) discussing our initial harmonization effort and observed disparities in the structure and content of variant interpretations.
 
 We are actively developing a prototype cross-knowledgebase query interface, available at: [https://search.cancervariants.org/](https://search.cancervariants.org/).
+
+## Project Leads
+
+* Brian Walsh
+* Alex Wagner

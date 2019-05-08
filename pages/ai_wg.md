@@ -22,6 +22,6 @@ Meeting times and locations to be determined
 
 ## Working Group Leads
 
-Ian King
-Chris Mungall
-Peter Robinson
+* Ian King
+* Chris Mungall
+* Peter Robinson

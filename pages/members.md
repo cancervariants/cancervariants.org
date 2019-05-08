@@ -44,25 +44,25 @@ header:
      <img src="/assets/img/santiago_gonzalez.jpg"><br>
      Santiago Gonzalez<br>
      IRB Barcelona<br>
-     ISPI WG Leader
+     <a href='/wg/ispi'>ISPI WG</a> Leader
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/melissa_haendel.jpg"><br>
      Melissa Haendel<br>
      Oregon St. U<br>
-     DL WG Leader
+     <a href='/wg/dl'>DL WG</a> Leader
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/peter_horak.jpg"><br>
      Peter Horak<br>
      NCT-Heidelberg<br>
-     KCIS WG Leader
+     <a href='/wg/kcis'>KCIS WG</a> Leader
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/ian_king.jpg"><br>
      Ian King<br>
      UHN, U of Toronto<br>
-     AI WG Leader
+     <a href='/wg/ai'>AI WG</a> Leader
   </div>
 </div>
 
@@ -71,27 +71,27 @@ header:
      <img src="/assets/img/shirley_li.jpg"><br>
      Shirley Li<br>
      SunQuest<br>
-     KCIS WG Leader<br>
-     Search WG Leader
+     <a href='/wg/kcis'>KCIS WG</a> Leader<br>
+     <a href='/wg/search'>Search WG</a> Leader
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/chris_mungall.jpg"><br>
      Chris Mungall<br>
      Berkeley Lab<br>
-     AI WG Leader<br>
-     DisH WG Leader
+     <a href='/wg/ai'>AI WG</a> Leader<br>
+     <a href='/wg/dish'>DisH WG</a> Leader
   </div>
     <div class="large-2 columns" align="center">
      <img src="/assets/img/beth_pitel.jpg"><br>
      Beth Pitel<br>
      Mayo Clinic<br>
-     VTB Project Leader
+     <a href='/projects/virtual_tumor_board'>VTB</a> Leader
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/shruti_rao.jpg"><br>
      Shruti Rao<br>
      Georgetown<br>
-     VTB Project Leader
+     <a href='/projects/virtual_tumor_board'>VTB</a> Leader
   </div>
 </div>
 
@@ -100,26 +100,26 @@ header:
      <img src="/assets/img/peter_robinson.jpg"><br>
      Peter Robinson<br>
      Jackson Lab<br>
-     AI WG Leader<br>
-     DisH WG Leader
+     <a href='/wg/ai'>AI WG</a> Leader<br>
+     <a href='/wg/dish'>DisH WG</a> Leader
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/peter_rogan.jpg"><br>
      Peter Rogan<br>
      U Western Ontario<br>
-     ISPI WG Leader
+     <a href='/wg/ispi'>ISPI WG</a> Leader
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/lynn_schriml.jpg"><br>
      Lynn Schriml<br>
      U Maryland<br>
-     DisH WG Leader
+     <a href='/wg/dish'>DisH WG</a> Leader
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/dmitriy_sonkin.jpg"><br>
      Dmitriy Sonkin<br>
      NCI<br>
-     KCIS WG Leader
+     <a href='/wg/kcis'>KCIS WG</a> Leader
   </div>
 </div>
 <div class="row" style="padding-bottom: 30px">
@@ -127,13 +127,13 @@ header:
      <img src="/assets/img/brian_walsh.jpg"><br>
      Brian Walsh<br>
      OHSU<br>
-     MetaKB Leader
+     <a href='/projects/knowledgebase_integration'>MetaKB</a> Leader
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/jeremy_warner.jpg"><br>
      Jeremy Warner<br>
      Vanderbilt<br>
-     DrH WG Leader
+     <a href='/wg/drh'>DrH WG</a> Leader
   </div>
 </div>
 
