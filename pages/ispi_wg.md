@@ -24,3 +24,4 @@ Meeting times and locations to be determined
 
 * Santiago Gonzalez
 * Peter Rogan
+* Ioannis Vlachos

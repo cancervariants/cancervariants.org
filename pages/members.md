@@ -124,6 +124,12 @@ header:
 </div>
 <div class="row" style="padding-bottom: 30px">
   <div class="large-2 large-offset-1 columns" align="center">
+     <img src="/assets/img/ioannis_vlachos.jpg"><br>
+     Ioannis Vlachos<br>
+     Harvard / BIDMC<br>
+     <a href='/wg/ispi'>ISPI WG</a> Leader
+  </div>
+  <div class="large-2 columns" align="center">
      <img src="/assets/img/brian_walsh.jpg"><br>
      Brian Walsh<br>
      OHSU<br>
