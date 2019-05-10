@@ -16,7 +16,7 @@ This working group will focus on AI methods for curation and inference of clinic
 
 ## Logistics
 
-[Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-ispi-wg)
+[Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-ai-wg)
 
 Meeting times and locations to be determined
 
