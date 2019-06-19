@@ -4,7 +4,7 @@ title: "In Silico Prediction Implementation"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/wg/ispi"
+permalink: "/wg/ispi/"
 header:
   image: "VICC_color_combo_v2.png"
   background-color: "#18252B"

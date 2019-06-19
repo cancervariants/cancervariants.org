@@ -4,7 +4,7 @@ title: "Knowledge Curation and Interpretation Standards"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/wg/kcis"
+permalink: "/wg/kcis/"
 header:
   image: "VICC_color_combo_v2.png"
   background-color: "#18252B"

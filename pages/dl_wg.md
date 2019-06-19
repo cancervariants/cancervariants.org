@@ -4,7 +4,7 @@ title: "Data Licensing"
 meta_title: ""
 subheadline: ""
 teaser: ""
-permalink: "/wg/dl"
+permalink: "/wg/dl/"
 header:
   image: "VICC_color_combo_v2.png"
   background-color: "#18252B"
