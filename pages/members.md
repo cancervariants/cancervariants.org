@@ -31,6 +31,12 @@ header:
      VICC Founder<br> 
      VICC Co-lead
   </div>
+  <div class="large-2 columns" align="center">
+     <img src="/assets/img/debyani_chakravarty.jpeg"><br>
+     Debyani Chakravarty<br>
+     MSKCC<br> 
+     VICC Co-lead
+  </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/alex_wagner.jpeg"><br>
      Alex Wagner<br>
