@@ -32,7 +32,7 @@ header:
      VICC Co-lead
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/debyani_chakravarty.jpeg"><br>
+     <img src="/assets/img/debyani_chakravarty.png"><br>
      Debyani Chakravarty<br>
      MSKCC<br> 
      VICC Co-lead
@@ -162,7 +162,7 @@ header:
      MSKCC
   </div>
   <div class="large-2 columns" align="center">
-     <img src="/assets/img/debyani_chakravarty.jpeg"><br>
+     <img src="/assets/img/debyani_chakravarty.png"><br>
      Debyani Chakravarty<br>
      MSKCC
   </div>
