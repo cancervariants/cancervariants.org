@@ -22,26 +22,26 @@ header:
      Obi Griffith<br>
      Washington U<br>
      VICC Founder<br> 
-     VICC Co-lead
+     VICC Co-director
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/malachi_griffith3.jpg"><br>
      Malachi Griffith<br>
      Washington U<br>
      VICC Founder<br> 
-     VICC Co-lead
+     VICC Co-director
   </div>
   <div class="large-2 columns" align="center">
      <img src="/assets/img/debyani_chakravarty.png"><br>
      Debyani Chakravarty<br>
      MSKCC<br> 
-     VICC Co-lead
+     VICC Co-director
   </div>
   <div class="large-2 columns end" align="center">
      <img src="/assets/img/alex_wagner.jpeg"><br>
      Alex Wagner<br>
      Washington U<br>
-     VICC Co-lead
+     VICC Co-director
   </div>
 </div>
 
