@@ -18,7 +18,7 @@ This working group will focus on requirements, strategies, and implementation of
 
 [Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-dish-wg)
 
-Meeting times and locations to be determined
+The Disease Harmonization Working Group meets monthly on the third Monday from 2-3PM CT. For additional details and announcements sign up for the mailing list above.
 
 ## Working Group Leads
 
