@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "In Silico Prediction Implementation"
+title: "In Silico Interpretation"
 meta_title: ""
 subheadline: ""
 teaser: ""
@@ -16,7 +16,7 @@ This working group will focus on methods for the prediction of biological conseq
 
 ## Logistics
 
-[Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-ispi-wg)
+[Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-isi-wg)
 
 Meeting times and locations to be determined
 
