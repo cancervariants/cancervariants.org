@@ -18,10 +18,10 @@ This working group will focus on the landscape of variation interpretation stand
 
 [Sign up for the mailing list here](https://groups.google.com/forum/#!forum/vicc-kcis-wg)
 
-Meeting times and locations to be determined
+[More information is available on the KCIS Google Doc](https://docs.google.com/document/d/1Xwj42zf9kkSemYwYgfnk-FHBXjPZ7tzCtBPqYGd26QY/edit?usp=sharing)
 
 ## Working Group Leads
 
+* Dmitriy Sonkin
 * Peter Horak
 * Shirley Li
-* Dmitriy Sonkin
