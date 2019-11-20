@@ -15,7 +15,6 @@ header:
 This working group will focus on the landscape of variation interpretation standards, the salient elements informing those standards, and how those elements are curated. Ultimately, this focus should lead to recommendations on one or more guidelines to be followed and the appropriate contexts for which they should be used.
 
 ## Products
-
 [Standard Operating Procedure for the Classification of Variant Oncogenicity/Pathogenicity (Draft)](/assets/docs/SOP_onc-path_interp_latest.pdf)
 
 ## Logistics
