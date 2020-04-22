@@ -1,0 +1,49 @@
+- title: VICC
+  url: "/"
+  side: left
+
+- title: "Principles"
+  url: "/principles"
+  side: left
+
+- title: Projects
+  url: "/projects"
+  side: left
+  dropdown:
+    - title: "Virtual Tumor Board"
+      url: "/projects/virtual_tumor_board"
+    - title: "Knowledgebase Integration"
+      url: "/projects/knowledgebase_integration"
+
+- title: Working Groups
+  url: "/wg"
+  side: left
+  dropdown:
+    - title: "AI-Assisted Curation"
+      url: "/wg/ai"
+    - title: "Curation Standards"
+      url: "/wg/kcis"
+    - title: "Data Licensing"
+      url: "/wg/dl"
+    - title: "Disease Harmonization"
+      url: "/wg/dish"
+    - title: "Drug Harmonization"
+      url: "/wg/drh"
+    - title: "In-silico Prediction"
+      url: "/wg/ispi"
+    - title: "Search"
+      url: "/wg/search"
+    - title: "Variant Harmonization"
+      url: "/wg/vh"
+
+- title: Participants
+  side: left
+  dropdown:
+    - title: Members
+      url: "/members"
+    - title: "Join the VICC"
+      url: "/join"
+
+- title: Resources
+  url: "/resources"
+  side: left

@@ -105,6 +105,10 @@ compress_html:
 # Default Settings
 
 defaults:
+  - scope:
+      path: ''
+    values:
+      header: none
   -
     scope:
       path: '' 				# an empty string here means all files in the project
