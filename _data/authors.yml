@@ -1,0 +1,22 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+Alex: # replace this with your info
+  name: "Alex Wagner"
+  siterole: "webmaster, developer"
+  email: "github@alexwagner.info"
+  twitter: "@handlerwagner"
+  uri: "http://alexwagner.info"
+
+# you can add more authors here
+Zach: # replace this with your info
+  name: "Zachary Skidmore"
+  siterole: "webmaster, developer"
+
+Obi: # replace this with your info
+  name: "Obi Griffith"
+  siterole: "webmaster, developer"
