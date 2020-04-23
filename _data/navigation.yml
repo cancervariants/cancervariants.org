@@ -2,13 +2,19 @@
   url: "/"
   side: left
 
-- title: "Principles"
-  url: "/principles"
-  side: left
+- title: About
+  side: right
+  dropdown:
+    - title: "Principles"
+      url: "/principles"
+    - title: "Members"
+      url: "/membership"
+    - title: "Invited Talks"
+      url: "/talks"
 
 - title: Projects
   url: "/projects"
-  side: left
+  side: right
   dropdown:
     - title: "Virtual Tumor Board"
       url: "/projects/virtual_tumor_board"
@@ -17,7 +23,7 @@
 
 - title: Working Groups
   url: "/wg"
-  side: left
+  side: right
   dropdown:
     - title: "AI-Assisted Curation"
       url: "/wg/ai"
@@ -36,14 +42,7 @@
     - title: "Variant Harmonization"
       url: "/wg/vh"
 
-- title: Participants
-  side: left
-  dropdown:
-    - title: Members
-      url: "/members"
-    - title: "Join the VICC"
-      url: "/join"
+- title: Participate
+  url: "/join"
+  side: right
 
-- title: Resources
-  url: "/resources"
-  side: left
