@@ -1,16 +1,21 @@
 - title: VICC
-  url: "/"
+  url: ""
   side: left
 
 - title: About
+  url: "#"
   side: right
   dropdown:
-    - title: "Principles"
-      url: "/principles"
+    - title: "History"
+      url: "/about"
+    - title: "Leadership"
+      url: "/leadership"
     - title: "Members"
-      url: "/membership"
-    - title: "Invited Talks"
-      url: "/talks"
+      url: "/members"
+#    - title: "Invited Talks"
+#      url: "/talks"
+    - title: "Documents"
+      url: "/docs"
 
 - title: Projects
   url: "/projects"
@@ -25,24 +30,15 @@
   url: "/wg"
   side: right
   dropdown:
-    - title: "AI-Assisted Curation"
-      url: "/wg/ai"
-    - title: "Curation Standards"
-      url: "/wg/kcis"
-    - title: "Data Licensing"
-      url: "/wg/dl"
-    - title: "Disease Harmonization"
-      url: "/wg/dish"
-    - title: "Drug Harmonization"
-      url: "/wg/drh"
-    - title: "In-silico Prediction"
-      url: "/wg/ispi"
-    - title: "Search"
-      url: "/wg/search"
-    - title: "Variant Harmonization"
-      url: "/wg/vh"
+  - title: "Interpretation Standards"
+    url: "/wg/kcis"
+  - title: "Clinical Data Representation"
+    url: "/wg/cdr"
+  - title: "In-silico Prediction"
+    url: "/wg/isp"
+  - title: "Variant Representation"
+    url: "/wg/vrs"
 
 - title: Participate
   url: "/join"
   side: right
-
