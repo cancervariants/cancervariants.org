@@ -1,12 +1,9 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contact us"
+meta_title: "Contact"
 permalink: "/contact"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+For general inquiries, please write us at <help@cancervariants.org>. For inquiries related to a specific project or working group, please contact leadership for those activities directly using the contact information provided on the appropriate [project](/projects) or [working group](/wg) page.
 
- [1]: http://www.wufoo.com/
