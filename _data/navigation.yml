@@ -2,29 +2,38 @@
   url: ""
   side: left
 
-- title: About
-  url: "#"
+- title: About Us
+  url: "/about"
   side: right
   dropdown:
-    - title: "History"
+    - title: Overview
       url: "/about"
-    - title: "Leadership"
+    - title: Leadership
       url: "/leadership"
-    - title: "Members"
+    - title: Members
       url: "/members"
 #    - title: "Invited Talks"
 #      url: "/talks"
-    - title: "Documents"
-      url: "/docs"
+
+- title: Products
+  url: "/docs"
+  side: right
+  dropdown:
+    - title: Standards
+      url: /docs/standards
+    - title: Publications
+      url: /docs/publications
+    - title: VICC Policies
+      url: /docs/policies
 
 - title: Projects
   url: "/projects"
   side: right
   dropdown:
     - title: "Virtual Tumor Board"
-      url: "/projects/virtual_tumor_board"
+      url: "/projects/vmtb"
     - title: "Knowledgebase Integration"
-      url: "/projects/knowledgebase_integration"
+      url: "/projects/metakb"
 
 - title: Working Groups
   url: "/wg"

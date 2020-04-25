@@ -19,6 +19,16 @@ Check typography variables › _3_typography_settings.scss
 
 */
 
+/* Frontpage
+------------------------------------------------------------------- */
+
+.frontpage p,
+.frontpage a{
+    font-size: 20px;
+}
+.frontpage .shadow-black a{
+    font-size: inherit;
+}
 
 
 /* Links
@@ -58,7 +68,6 @@ p {
     -ms-word-break: normal;
     /* Non standard for webkit */
     word-break: normal;
-    font-size: 20px;
 }
 p a,
 article a {
