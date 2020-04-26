@@ -15,16 +15,9 @@
 #    - title: "Invited Talks"
 #      url: "/talks"
 
-- title: Products
-  url: "/docs/"
+- title: Research Products
+  url: "/research/"
   side: right
-  dropdown:
-    - title: Standards
-      url: /docs/standards/
-    - title: Publications
-      url: /docs/publications/
-    - title: VICC Policies
-      url: /docs/policies/
 
 - title: Projects
   url: /projects/

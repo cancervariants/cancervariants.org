@@ -47,9 +47,9 @@ collections_dir: /collections/
 collections:
   leadership:
     people: true
-  standards:
+  research:
     output: true
-    permalink: /docs/standards/:path/
+    permalink: /research/:path/
 
 # Pagination
 ############
@@ -120,9 +120,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "standards"
+      type: "research"
     values:
-      layout: "standard"
+      layout: "research_product"
 
 
 
