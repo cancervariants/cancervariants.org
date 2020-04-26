@@ -3,51 +3,51 @@
   side: left
 
 - title: About Us
-  url: "/about"
+  url: /about/
   side: right
   dropdown:
     - title: Overview
-      url: "/about"
+      url: /about/
     - title: Leadership
-      url: "/leadership"
+      url: /leadership/
     - title: Members
-      url: "/members"
+      url: /members/
 #    - title: "Invited Talks"
 #      url: "/talks"
 
 - title: Products
-  url: "/docs"
+  url: "/docs/"
   side: right
   dropdown:
     - title: Standards
-      url: /docs/standards
+      url: /docs/standards/
     - title: Publications
-      url: /docs/publications
+      url: /docs/publications/
     - title: VICC Policies
-      url: /docs/policies
+      url: /docs/policies/
 
 - title: Projects
-  url: "/projects"
+  url: /projects/
   side: right
   dropdown:
-    - title: "Virtual Tumor Board"
-      url: "/projects/vmtb"
-    - title: "Knowledgebase Integration"
-      url: "/projects/metakb"
+    - title: Virtual Tumor Board
+      url: /projects/vmtb/
+    - title: Knowledgebase Integration
+      url: /projects/metakb/
 
 - title: Working Groups
-  url: "/wg"
+  url: /wg/
   side: right
   dropdown:
-  - title: "Interpretation Standards"
-    url: "/wg/kcis"
-  - title: "Clinical Data Representation"
-    url: "/wg/cdr"
-  - title: "In-silico Prediction"
-    url: "/wg/isp"
-  - title: "Variant Representation"
-    url: "/wg/vrs"
+  - title: Interpretation Standards
+    url: /wg/kcis/
+  - title: Clinical Data Representation
+    url: /wg/cdr/
+  - title: In-silico Prediction
+    url: /wg/isp/
+  - title: Variant Representation
+    url: /wg/vrs/
 
 - title: Participate
-  url: "/join"
+  url: "/join/"
   side: right

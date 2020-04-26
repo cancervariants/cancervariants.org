@@ -2,8 +2,7 @@
 layout: page
 title: "About the VICC"
 meta_title: "About"
-permalink: '/about'
-
+permalink: '/about/'
 ---
 
 ## Motivation

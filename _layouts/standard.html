@@ -1,0 +1,20 @@
+---
+layout: default
+format: post
+---
+
+<div class="medium-8 medium-offset-2 t30">
+    <h1 class="b15">{{ page.title }}</h1>
+    <p>
+        {{ content }}
+    </p>
+    <a class="button small round b10" href="{{page.document_url}}" download>
+        <i class="fa fa-download"></i> Download .PDF
+    </a>
+    <p class="subtle">
+        {% unless page.version == blank or page.version == nil %}
+        Current Version: {{ page.version }}
+        {% endunless %}
+    </p>
+</div>
+
