@@ -1,7 +1,7 @@
 ---
-title: Variation Representation Specification
+title: GA4GH Variation Representation Specification
 external_url: https://vr-spec.readthedocs.io/
-type: specification
+status: approved
 ---
 
 Maximizing the personal, public, research, and clinical value of genomic information will require

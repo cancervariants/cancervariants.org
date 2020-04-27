@@ -1,7 +1,8 @@
 ---
 title: "Standard Operating Procedure for the Interpretation of Oncogenicity/Pathogenicity of Somatic Variants"
 download_url: "/assets/docs/SOP_onc-path_interp_latest.pdf"
-version: "Draft 1.6"
+status: "draft"
+version: "1.6"
 ---
 Somatic variants in cancer-relevant genes are interpreted from multiple partially overlapping perspectives. When considered in discovery and translational research endeavors, it is important to determine if a particular variant observed in a gene of interest is oncogenic/pathogenic or not, as such knowledge provides the foundation on which targeted cancer treatment research is based. In contrast, clinical applications are dominated by diagnostic, prognostic, or therapeutic interpretations which in part also depends on underlying variant oncogenicity/pathogenicity. The Association for Molecular Pathology, the American Society of Clinical Oncology, and the College of American Pathologists (AMP/ASCO/CAP) have published structured somatic variant clinical interpretation guidelines which specifically address diagnostic, prognostic, and therapeutic implications. These guidelines have been well-received by the oncology community. Many variant knowledgebases, clinical laboratories/centers have adopted or are in the process of adopting these guidelines. The AMP/ASCO/CAP guidelines also describe different data types which are used to determine oncogenicity/pathogenicity of a variant, such as: population frequency, functional data, computational predictions, segregation, and somatic frequency. A second collaborative effort created the European Society for Medical Oncology (ESMO) Scale for Clinical Actionability of molecular Targets to provide a harmonized vocabulary that provides an evidence-based ranking system of molecular targets that supports their value as clinical targets. 
 
