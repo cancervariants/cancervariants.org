@@ -53,6 +53,8 @@ collections:
   manuscripts:
     output: true
     permalink: /research/manuscripts/:path/
+  presentations:
+    sort_by: title
 
 # Pagination
 ############
