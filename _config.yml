@@ -46,7 +46,7 @@ plugins:
 collections_dir: /collections/
 collections:
   leadership:
-    people: true
+    sort_by: name
   standards:
     output: true
     permalink: /research/standards/:path/
@@ -127,7 +127,8 @@ defaults:
     values:
       layout: "research_product"
       type: "standard"
-  - scope:
+  -
+    scope:
       path: ""
       type: "manuscripts"
     values:
