@@ -10,6 +10,3 @@ permalink: /research/
 
 ## Manuscripts and Publications
 {% include list-collection collection='manuscripts' %}
-
-## Application Software
-{% include list-collection collection='applications' %}

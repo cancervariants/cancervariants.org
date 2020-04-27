@@ -21,6 +21,9 @@
         {% unless page.status == blank or page.status == nil %}
             ({{ page.status | capitalize }})
         {% endunless %}
+        {% unless page.journal == blank or page.journal == nil %}
+            (<em>{{ page.journal }}</em>)
+        {% endunless %}
     </a></li>
     {% endunless %}
   {% endfor %}

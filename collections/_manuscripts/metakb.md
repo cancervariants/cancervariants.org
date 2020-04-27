@@ -5,7 +5,7 @@ publication_year: 2020
 publication_month: "April"
 publication_day: 3
 journal: "Nature Genetics"
-type: "Article"
+type: article
 external_url: "https://www.nature.com/articles/s41588-020-0603-8"
 ---
 
