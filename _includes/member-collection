@@ -19,10 +19,10 @@
     {% unless leader.published == false %}
     <li><a href="{{ site.url }}{{ page.url }}">
         <div class="row">
-          <div class="columns small-12 medium-3 large-2 expanded">
-              <img src="{{ leader.img_url }}">
+          <div class="columns small-12 medium-2 expanded">
+              <img src="{{ leader.img_url }}" style="max-width: 80px; height: auto">
           </div>
-          <div class="columns small-12 medium-9 large-10 expanded text-left end">
+          <div class="columns small-12 medium-10 text-left end">
             <div>
                 {{ leader.name }}{% unless leader.post_nominal_letters == blank or leader.post_nominal_letters == nil %},
                 {{ leader.post_nominal_letters }}
