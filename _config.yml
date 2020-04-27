@@ -13,7 +13,7 @@ credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll<
 
 # Main author of the website
 # See > authors.yml
-author: Alex H. Wagner, Ph.D.
+author: "Alex H. Wagner, Ph.D."
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -47,9 +47,12 @@ collections_dir: /collections/
 collections:
   leadership:
     people: true
-  research:
+  standards:
     output: true
-    permalink: /research/:path/
+    permalink: /research/standards/:path/
+  manuscripts:
+    output: true
+    permalink: /research/manuscripts/:path/
 
 # Pagination
 ############
@@ -120,7 +123,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "research"
+      type: "standards"
+    values:
+      layout: "research_product"
+      type: "standard"
+  - scope:
+      path: ""
+      type: "manuscripts"
     values:
       layout: "research_product"
 

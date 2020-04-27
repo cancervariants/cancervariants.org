@@ -101,16 +101,24 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 
-h1 {
+.frontpage h1 {
     font-size: $font-size-h1;
     margin-top: 0;
     margin-bottom: 40px;
 }
+
+h1 {
+    font-size: $font-size-h1-minor;
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
 h2 {
     font-size: $font-size-h2;
-    margin: 1.563em 0 0 0;
-}
-    .blog-index h2 {
+    margin: 1.4em 0 0 0;
+    }
+.blog-index h2 {
         margin-top: 0;
     }
 h3 {

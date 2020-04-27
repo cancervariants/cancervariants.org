@@ -16,7 +16,7 @@
 #      url: "/talks"
 
 - title: Research Products
-  url: "/research/"
+  url: /research/
   side: right
 
 - title: Projects
