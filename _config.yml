@@ -51,6 +51,10 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
 
+collections_dir: '/collections/'
+collections:
+  - 'presentations'
+
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
