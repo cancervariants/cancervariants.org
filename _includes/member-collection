@@ -13,21 +13,34 @@
 <div class="row">
   <hr class="collection">
 </div>
-<ul class="collection side-nav">
+<ul class="side-nav">
   {% assign filtered_leaders = site.leadership | where:"status","active" | where:"role",include.role %}
   {% for leader in filtered_leaders %}
     {% unless leader.published == false %}
     <li><a href="{{ site.url }}{{ page.url }}">
-        {{ leader.name }}{% unless leader.post_nominal_letters == blank or leader.post_nominal_letters == nil %},
-            {{ leader.post_nominal_letters }}
-        {% endunless %}
-        {% unless page.status == blank or page.status == nil %}
-            ({{ page.status | capitalize }})
-        {% endunless %}
-        {% unless page.journal == blank or page.journal == nil %}
-            (<em>{{ page.journal }}</em>)
-        {% endunless %}
-    </a></li>
+        <div class="row">
+          <div class="columns small-12 medium-3 large-2 expanded">
+              <img src="{{ leader.img_url }}">
+          </div>
+          <div class="columns small-12 medium-9 large-10 expanded text-left end">
+            <div>
+                {{ leader.name }}{% unless leader.post_nominal_letters == blank or leader.post_nominal_letters == nil %},
+                {{ leader.post_nominal_letters }}
+                {% endunless %}
+                {% unless page.status == blank or page.status == nil %}
+                ({{ page.status | capitalize }})
+                {% endunless %}
+                {% unless page.journal == blank or page.journal == nil %}
+                (<em>{{ page.journal }}</em>)
+                {% endunless %}
+            </div>
+            <div class="subtle">
+                {{ leader.institution }}
+            </div>
+          </div>
+        </div>
+      </a>
+    </li>
     {% endunless %}
   {% endfor %}
 </ul>

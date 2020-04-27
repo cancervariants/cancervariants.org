@@ -185,7 +185,12 @@ td {
     vertical-align: top;
 }
 
-
+.bottom-column
+{
+    float: none;
+    display: table-cell;
+    vertical-align: bottom;
+}
 
 /* Code
 ------------------------------------------------------------------- */
@@ -299,7 +304,7 @@ mark {
     background-color: scale-color($warning-color, $lightness: 60%);
 }
 
-.subtle {font-style: italic; color: $grey-10; }
+.subtle {font-style: italic; color: $grey-10; margin: 0; }
 
 /* Typography for Articles
 ------------------------------------------------------------------- */
