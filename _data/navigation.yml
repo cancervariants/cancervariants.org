@@ -28,18 +28,18 @@
     - title: Knowledgebase Integration
       url: /projects/integration/
 
-- title: Working Groups
-  url: /wg/
-  side: right
-  dropdown:
-  - title: Interpretation Standards
-    url: /wg/kcis/
-  - title: Clinical Data Representation
-    url: /wg/cdr/
-  - title: In-silico Prediction
-    url: /wg/isp/
-  - title: Variant Representation
-    url: /wg/vrs/
+#- title: Working Groups
+#  url: /wg/
+#  side: right
+#  dropdown:
+#  - title: Interpretation Standards
+#    url: /wg/kcis/
+#  - title: Clinical Data Representation
+#    url: /wg/cdr/
+#  - title: In-silico Prediction
+#    url: /wg/isp/
+#  - title: Variant Representation
+#    url: /wg/vrs/
 
 - title: Participate
   url: /join/
