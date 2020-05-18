@@ -6,7 +6,13 @@ format: post
 <div class="medium-8 medium-offset-2 t30">
     <div>
         <h1>{{ page.title }}</h1>
-        <p class="subtle">{{ page.status | capitalize }} {{ page.type }}</p>
+        {% if page.status == blank or page.status == nil %}
+            {% unless page.type == blank or page.type == nil %}
+                <p class="subtle">{{ page.type | capitalize }}</p>
+            {% endunless %}
+        {% else %}
+            <p class="subtle">{{ page.status | capitalize }} {{ page.type }}</p>
+        {% endif %}
 <!--        ( {{ page.collection }}, {{ page.type }} )-->
 <!--        Here we need to check if there is additional information to add below header, such as author string, journal and publication date for articles.-->
     </div>
