@@ -144,10 +144,7 @@ defaults:
       path: ''
       type: 'leadership'
     values:
-      layout: 'page'
-
-
-
+      layout: 'person'
 
 # Favicons
 #############

@@ -146,6 +146,8 @@ img { border-radius: $global-radius;}
     img.right       { float: right; margin:5px 0 5px 15px; }
     img.aligncenter,
     img.center      { display: block; margin:0 auto 10px; }
+    img.portrait    { max-width: 80px; height: auto; }
+    img.portrait-large    { max-width: 160px; height: auto; }
 
 figure {
     margin: 0 0 rem-calc(30) 0;

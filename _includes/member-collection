@@ -20,7 +20,7 @@
     <li><a href="{{ site.url }}{{ leader.url }}">
         <div class="row">
           <div class="columns small-12 medium-2 expanded">
-              <img src="{{ leader.img_url }}" style="max-width: 80px; height: auto">
+              <img src="{{ leader.img_url }}" class="portrait">
           </div>
           <div class="columns small-12 medium-10 text-left end">
             <div>
