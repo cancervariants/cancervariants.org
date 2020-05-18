@@ -46,7 +46,9 @@ plugins:
 collections_dir: /collections/
 collections:
   leadership:
+    output: true
     sort_by: name
+    permalink: /leadership/:path/
   standards:
     output: true
     permalink: /research/standards/:path/
@@ -124,17 +126,25 @@ defaults:
       author: ''     # Default author for posts
   -
     scope:
-      path: ""
-      type: "standards"
+      path: ''
+      type: 'standards'
     values:
-      layout: "research_product"
-      type: "standard"
+      layout: 'research_product'
+      type: 'standard'
   -
     scope:
-      path: ""
-      type: "manuscripts"
+      path: ''
+      type: 'manuscripts'
     values:
-      layout: "research_product"
+      layout: 'research_product'
+      status: 'published'
+      type: 'article'
+  -
+    scope:
+      path: ''
+      type: 'leadership'
+    values:
+      layout: 'page'
 
 
 

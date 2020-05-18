@@ -17,7 +17,7 @@
   {% assign filtered_leaders = site.leadership | where:"status","active" | where:"role",include.role %}
   {% for leader in filtered_leaders %}
     {% unless leader.published == false %}
-    <li><a href="{{ site.url }}{{ page.url }}">
+    <li><a href="{{ site.url }}{{ leader.url }}">
         <div class="row">
           <div class="columns small-12 medium-2 expanded">
               <img src="{{ leader.img_url }}" style="max-width: 80px; height: auto">
