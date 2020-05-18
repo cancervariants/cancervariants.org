@@ -1,6 +1,6 @@
 ---
 name: Shruti Rao
-institution: Georgetown
+institution: Georgetown University
 post_nominal_letters: MS, MBA
 role: project leader
 status: active

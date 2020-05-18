@@ -10,20 +10,20 @@
       url: /about/
     - title: Leadership
       url: /leadership/
-    - title: Members
-      url: /members/
+#    - title: Partners
+#      url: /partners/
 #    - title: "Invited Talks"
-#      url: "/talks"
+#      url: "/talks/"
 
 - title: Research Products
   url: /research/
   side: right
 
 - title: Projects
-  url: /projects/
+  url: '#'
   side: right
   dropdown:
-    - title: Virtual Tumor Board
+    - title: Virtual Molecular Tumor Board
       url: /projects/vmtb/
     - title: Knowledgebase Integration
       url: /projects/metakb/
@@ -42,5 +42,5 @@
     url: /wg/vrs/
 
 - title: Participate
-  url: "/join/"
+  url: /join/
   side: right
