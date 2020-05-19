@@ -24,5 +24,5 @@ for meeting topics, times, and conferencing details.
 ### Adopt the VICC sharing principles
 If your organization is currently creating a knowledgebase of clinical interpretations of cancer variants, please 
 considering formally joining the VICC by reviewing the [VICC Principles](/principles/) and signing the 
-[Letter of Support](/assets/docs/VICC_LoS_template.pdf).
+[Letter of Support](/assets/docs/VICC_LoS_template.docx).
 
