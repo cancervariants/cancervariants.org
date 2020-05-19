@@ -18,7 +18,32 @@ format: post
         </p>
     </div>
     <div>
-        <img class="right portrait-large" src="{{ page.img_url }}">
+        <div class="right l15 b10">
+            <img class="portrait-large b0" src="{{ page.img_url }}">
+            <ul class="inline-list person-icons social-icons">
+                {% unless page.email == blank or page.email == nil %}
+                <li>
+                    <a href="mailto:{{ page.email }}">
+                        <i class="icon-mail"></i>
+                    </a>
+                </li>
+                {% endunless %}
+                {% unless page.website == blank or page.website == nil %}
+                <li>
+                    <a href="{{ page.website }}">
+                        <i class="icon-globe"></i>
+                    </a>
+                </li>
+                {% endunless %}
+                {% unless page.github_handle == blank or page.github_handle == nil %}
+                <li>
+                    <a href="https://github.com/{{ page.github_handle }}">
+                        <i class="icon-github"></i>
+                    </a>
+                </li>
+                {% endunless %}
+            </ul>
+        </div>
         {{ content }}
     </div>
 </div>

@@ -334,7 +334,20 @@ body.video cite { color: #fff; }
   }
 }
 
+.person-icons {
+    margin: 10px 0 0 0 !important;
+    width: 160px;
 
+    a {
+        color: $ci-2;
+        background: $grey-1;
+    }
+
+    li {
+        padding-bottom: 0;
+        margin: 0 8px 0 8px;
+    }
+}
 
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */
