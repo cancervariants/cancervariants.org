@@ -1,0 +1,24 @@
+---
+layout: default
+format: post
+---
+
+<div class="medium-8 medium-offset-2 t30">
+    <div>
+        <h1>
+            {{ page.name }}{% unless page.post_nominal_letters == blank or page.post_nominal_letters == nil %},
+                {{ page.post_nominal_letters }}
+            {% endunless %}
+            {% if page.status == 'active' %}
+                <span class="font-size-p">({{ page.role | capitalize }})</span>
+            {% endif %}
+        </h1>
+        <p class="subtle">
+            {{ page.institution }}
+        </p>
+    </div>
+    <div>
+        <img class="right portrait-large" src="{{ page.img_url }}">
+        {{ content }}
+    </div>
+</div>

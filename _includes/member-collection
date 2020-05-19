@@ -1,0 +1,49 @@
+{% comment %}
+*   
+*   This include lets you loop through a collection to list
+*   all entries in that collection.
+*   
+*   If you set »published: false« in front matter of a collection page 
+*   the page gots filtered out via unless
+*
+*   Example: {% include list-collection collection='wordpress' %}
+*   
+{% endcomment %}
+
+<div class="row">
+  <hr class="collection">
+</div>
+<ul class="side-nav">
+  {% assign filtered_leaders = site.leadership | where:"status","active" | where:"role",include.role %}
+  {% for leader in filtered_leaders %}
+    {% unless leader.published == false %}
+    <li><a href="{{ site.url }}{{ leader.url }}">
+        <div class="row">
+          <div class="columns small-12 medium-2 expanded">
+              <img src="{{ leader.img_url }}" class="portrait">
+          </div>
+          <div class="columns small-12 medium-10 text-left end">
+            <div>
+                {{ leader.name }}{% unless leader.post_nominal_letters == blank or leader.post_nominal_letters == nil %},
+                {{ leader.post_nominal_letters }}
+                {% endunless %}
+                {% unless page.status == blank or page.status == nil %}
+                ({{ page.status | capitalize }})
+                {% endunless %}
+                {% unless page.journal == blank or page.journal == nil %}
+                (<em>{{ page.journal }}</em>)
+                {% endunless %}
+            </div>
+            <div class="subtle">
+                {{ leader.institution }}
+            </div>
+          </div>
+        </div>
+      </a>
+    </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+<div class="row">
+  <hr class="collection">
+</div>

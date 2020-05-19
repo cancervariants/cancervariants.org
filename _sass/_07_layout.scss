@@ -249,7 +249,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #up-to-top {
-    padding: 160px 0 10px 0;
+    padding: 60px 0 10px 0;
 }
 #up-to-top a {
     font-size: 24px;
@@ -324,11 +324,11 @@ body.video cite { color: #fff; }
     display: block;
     width: 36px;
     border-radius: 50%;
-    color: $footer-bg;
-    background: $footer-color;
+    color: $subfooter-bg;
+    background: $subfooter-color;
     text-align: center;
     &:hover {
-      background: $footer-bg;
+      background: $subfooter-bg;
       color: #fff;
     }
   }
@@ -349,6 +349,8 @@ body.video cite { color: #fff; }
 .t80 { margin-top: 80px !important; }
 .t90 { margin-top: 90px !important; }
 
+.b0  { margin-bottom: 0px  !important; }
+.b10 { margin-bottom: 10px !important; }
 .b15 { margin-bottom: 15px !important; }
 .b20 { margin-bottom: 20px !important; }
 .b30 { margin-bottom: 30px !important; }

@@ -12,15 +12,6 @@ Site: {{ author.uri }}{% endif %}{% if author.twitter %}
 Twitter: {{ author.twitter }}{% endif %}
 {% endfor %}
 
-/* THANKS */
-
-Name: Moritz »mo.« Sauer
-Role: Creator of the Theme
-Site: http://mo.phlow.de/
-Twitter: @phlow
-Theme: http://phlow.github.io/feeling-responsive/
-
-
 /* SITE */
 
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}

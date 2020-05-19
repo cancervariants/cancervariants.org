@@ -2,13 +2,7 @@
 title: "A website that doesn't exit"
 layout: redirect
 sitemap: false
-permalink: /redirect-page
-redirect_to:  "/index.html"
-header:
-  image: "VICC_color_combo_v2.png"
-  background-color: "#18252B"
+permalink: /redirect-page/
+redirect_to:  "http://phlow.github.io/feeling-responsive/info/"
 ---
-
-## Submission sent
-
-Thank you for your interest in the Virtual Tumor Board, we will get back to you shortly. This page will automatically redirect to the home page in 15 seconds.
+This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).

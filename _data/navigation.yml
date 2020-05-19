@@ -1,54 +1,48 @@
-- title: Home
-  url: "/"
+- title: VICC
+  url: ""
   side: left
 
-- title: "Principles"
-  url: "/principles"
-  side: left
+- title: About Us
+  url: /about/
+  side: right
+  dropdown:
+    - title: Overview
+      url: /about/
+    - title: Leadership
+      url: /leadership/
+    - title: Principles
+      url: /principles/
+#    - title: Partners
+#      url: /partners/
+#    - title: "Invited Talks"
+#      url: "/talks/"
 
-- title: "Members"
-  url: "/members"
-  side: left
-
-- title: Organizations
-  url: "/organizations"
-  side: left
-
-- title: Join
-  url: "/join"
-  side: left
+- title: Research Products
+  url: /research/
+  side: right
 
 - title: Projects
-  url: "/projects"
-  side: left
+  url: '#'
+  side: right
   dropdown:
-  - title: "Virtual Tumor Board"
-    url: "/projects/virtual_tumor_board"
-  - title: "Knowledgebase Integration"
-    url: "/projects/knowledgebase_integration"
+    - title: Virtual Molecular Tumor Board
+      url: /projects/vmtb/
+    - title: Knowledgebase Integration
+      url: /projects/integration/
 
-- title: Working Groups
-  url: "/wg"
-  side: left
-  dropdown:
-  - title: "AI-Assisted Curation"
-    url: "/wg/ai"
-  - title: "Curation Standards"
-    url: "/wg/kcis"
-  - title: "Data Licensing"
-    url: "/wg/dl"
-  - title: "Disease Harmonization"
-    url: "/wg/dish"
-  - title: "Drug Harmonization"
-    url: "/wg/drh"
-  - title: "In-silico Prediction"
-    url: "/wg/ispi"
-  - title: "Search"
-    url: "/wg/search"
-  - title: "Variant Harmonization"
-    url: "/wg/vh"
+#- title: Working Groups
+#  url: /wg/
+#  side: right
+#  dropdown:
+#  - title: Interpretation Standards
+#    url: /wg/kcis/
+#  - title: Clinical Data Representation
+#    url: /wg/cdr/
+#  - title: In-silico Prediction
+#    url: /wg/isp/
+#  - title: Variant Representation
+#    url: /wg/vrs/
 
-- title: Resources
-  url: "/resources"
-  side: left
-
+- title: Participate
+  url: /join/
+  side: right

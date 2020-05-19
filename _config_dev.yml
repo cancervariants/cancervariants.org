@@ -9,6 +9,10 @@ url: 		'http://localhost:4000'
 baseurl: 	''
 urlimg: 	'http://localhost:4000/images/'
 
+webserver_headers:
+  "Access-Control-Allow-Origin": "*"
+  "Server": "CustomServerName"
+
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
   noscript: false
@@ -20,7 +24,7 @@ sass:
   # trace_selectors: true
   # debug_info: true
   # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
-  sourcemap: true
+  # sourcemap: true # Produces an error
 
 # Disable when not in production
 google_analytics_tracking_id: false

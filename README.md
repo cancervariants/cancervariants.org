@@ -1,6 +1,6 @@
 ## Overview
 
-This is the github repo for the Variant Interpretation for Cancer Consortium [website](http://cancervariants.org). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive jekyll theme](https://github.com/Phlow/feeling-responsive). The live site is sourced from the protected master branch. Changes to the live site should be made via pull request.
+This is the github repo for the Variant Interpretation for Cancer Consortium [website](http://cancervariants.org). The website uses the static site generator [jekyll](https://jekyllrb.com/) and is based on the [Feeling Responsive Jekyll theme](https://phlow.github.io/feeling-responsive/). The live site is sourced from the protected master branch. Changes to the live site should be made via pull request.
 
 ## Installation
 

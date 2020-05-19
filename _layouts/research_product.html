@@ -1,0 +1,42 @@
+---
+layout: default
+format: post
+---
+
+<div class="medium-8 medium-offset-2 t30">
+    <div>
+        <h1>{{ page.title }}</h1>
+        {% if page.status == blank or page.status == nil %}
+            {% unless page.type == blank or page.type == nil %}
+                <p class="subtle">{{ page.type | capitalize }}</p>
+            {% endunless %}
+        {% else %}
+            <p class="subtle">{{ page.status | capitalize }} {{ page.type }}</p>
+        {% endif %}
+<!--        ( {{ page.collection }}, {{ page.type }} )-->
+<!--        Here we need to check if there is additional information to add below header, such as author string, journal and publication date for articles.-->
+    </div>
+    <div>
+        <h2>Abstract</h2>
+        {{ content }}
+    </div>
+    <div class="button-group">
+        {% unless page.external_url == blank or page.external_url == nil %}
+        <a class="button small round b0" href="{{ page.external_url }}" target=_blank>
+            View {{ page.type | capitalize }} <i class="fa fa-external-link"></i>
+        </a>
+        {% endunless %}
+        {% unless page.download_url == blank or page.download_url == nil %}
+        <a class="button small round b0" href="{{ page.download_url }}" download>
+            <i class="fa fa-download"></i> Download {{ page.type | capitalize }}
+        </a>
+        {% endunless %}
+    </div>
+
+    <p class="subtle">
+        {% unless page.version == blank or page.version == nil %}
+            Current Version: {{ page.version }}
+        {% endunless %}
+    </p>
+</div>
+

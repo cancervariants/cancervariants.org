@@ -19,6 +19,16 @@ Check typography variables › _3_typography_settings.scss
 
 */
 
+/* Frontpage
+------------------------------------------------------------------- */
+
+.frontpage p,
+.frontpage a{
+    font-size: 20px;
+}
+.frontpage .shadow-black a{
+    font-size: inherit;
+}
 
 
 /* Links
@@ -54,7 +64,7 @@ p {
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
-    hyphens: auto;
+    hyphens: manual;
     -ms-word-break: normal;
     /* Non standard for webkit */
     word-break: normal;
@@ -91,15 +101,24 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 
-h1 {
+.frontpage h1 {
     font-size: $font-size-h1;
     margin-top: 0;
+    margin-bottom: 40px;
 }
+
+h1 {
+    font-size: $font-size-h1-minor;
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
 h2 {
     font-size: $font-size-h2;
-    margin: 1.563em 0 0 0;
-}
-    .blog-index h2 {
+    margin: 1.4em 0 0 0;
+    }
+.blog-index h2 {
         margin-top: 0;
     }
 h3 {
@@ -127,6 +146,8 @@ img { border-radius: $global-radius;}
     img.right       { float: right; margin:5px 0 5px 15px; }
     img.aligncenter,
     img.center      { display: block; margin:0 auto 10px; }
+    img.portrait    { max-width: 80px; height: auto; }
+    img.portrait-large    { max-width: 160px; height: auto; }
 
 figure {
     margin: 0 0 rem-calc(30) 0;
@@ -165,8 +186,6 @@ figcaption a:hover,
 td {
     vertical-align: top;
 }
-
-
 
 /* Code
 ------------------------------------------------------------------- */
@@ -280,7 +299,7 @@ mark {
     background-color: scale-color($warning-color, $lightness: 60%);
 }
 
-
+.subtle {font-style: italic; color: $grey-10; margin: 0; }
 
 /* Typography for Articles
 ------------------------------------------------------------------- */
