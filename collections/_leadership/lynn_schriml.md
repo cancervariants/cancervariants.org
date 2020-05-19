@@ -1,6 +1,6 @@
 ---
 name: Lynn Schriml
-role: wg leader
+role: working group leader
 status: inactive
 img_url: /assets/img/lynn_schriml.jpg
 ---

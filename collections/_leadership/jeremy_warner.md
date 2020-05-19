@@ -2,7 +2,7 @@
 name: Jeremy Warner
 institution: Vanderbilt University
 post_nominal_letters: MD, MS, FAMIA, FASCO
-role: wg leader
+role: working group leader
 status: active
 img_url: /assets/img/jeremy_warner.jpg
 ---

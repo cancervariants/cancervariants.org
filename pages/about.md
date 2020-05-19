@@ -11,7 +11,7 @@ The field of precision medicine aspires to a future in which a cancer patient’
 
 ## A Global Alliance
 
-Formation of the VICC was supported by the [Global Alliance for Genomics and Health (GA4GH)](https://ga4gh.org). The VICC effort evolved out of the Genotype2Phenotype Task Team of the GA4GH in 2016. Now a stand-alone organization and [GA4GH Driver Project](https://www.ga4gh.org/how-we-work/driver-projects/), the VICC is led by a diverse group of experts in the curation, representation, and interpretation of clinical-genomics evidence. Learn more about our directors and working group leads on our [leadership page](/leadership/). 
+Formation of the VICC was supported by the [Global Alliance for Genomics and Health (GA4GH)](https://ga4gh.org). The VICC effort evolved out of the Genotype2Phenotype Task Team of the GA4GH in 2016. Now a stand-alone organization and [GA4GH Driver Project](https://www.ga4gh.org/how-we-work/driver-projects/), the VICC is led by a diverse group of experts in the curation, representation, and interpretation of clinical-genomics evidence. Learn more about our directors and working group leaders on our [leadership page](/leadership/). 
 
 In our founding work, we established a cooperative partnership between 6 international clinical interpretation knowledgebases to build an analysis and initial search tool for harmonized clinical variant evidence in cancers (see the [knowledgebase integration project page](/projects/integration/) for details).
 

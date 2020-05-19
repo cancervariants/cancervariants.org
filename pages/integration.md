@@ -15,7 +15,7 @@ The knowledgebase integration project originated from the GA4GH [Genotype-to-Phe
 
 We continue to actively develop the metakb, and are currently evaluating new sources for inclusion and working on a new search interface. It is currently available online at [https://search.cancervariants.org/](https://search.cancervariants.org/).
 
-## Project Leads
+## Project Leaders
 
 * Alex Wagner
 * Brian Walsh
