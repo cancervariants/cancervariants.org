@@ -14,6 +14,9 @@ In this project, we seek to capture the molecular and functional characterizatio
 
 This project was initiated from joint activity between the ClinGen Somatic Working Group and the Variant Interpretation for Cancer Consortium. We are soliciting community input to collect requirements and best practices in use by the community. If you wish to participate, please start by filling out a [contributor form](https://forms.gle/M3nEfoUpTtYvMTMe6) to be added to our mailing lists for discussions on this topic.
 
+## Manuscript Planning
+We are in the early stages of drafting our SOP, and are still heavily focused on gathering input from the community to shape the eventual content. You may comment directly on the [living manuscript draft](https://docs.google.com/document/d/1V9IAsV5eXPyX1jmF-Rm_g7chP-oTiBOQE6pHybebAOw/edit?usp=sharing), or provide trackable feedback on our [GitHub repository](https://github.com/cancervariants/fusions/issues). 
+
 ## Resources
 Below is a list of prior works and resources related to this initiative:
 
