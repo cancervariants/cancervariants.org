@@ -130,6 +130,7 @@ defaults:
       type: 'standards'
     values:
       layout: 'research_product'
+      status: 'draft'
       type: 'standard'
   -
     scope:
@@ -137,7 +138,7 @@ defaults:
       type: 'manuscripts'
     values:
       layout: 'research_product'
-      status: 'published'
+      status: 'draft'
       type: 'article'
   -
     scope:

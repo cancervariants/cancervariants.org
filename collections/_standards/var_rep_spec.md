@@ -16,16 +16,16 @@ Here we document the primary contributions of this specification for variation r
   intentionally ambiguous, often accurately reflecting scientific uncertainty or understanding at
   the time. Abstract and ambiguous terms are not readily translatable into a representation of
   knowledge. Therefore, the specification begins with precise computational definitions for
-  biological concepts that are essential to representing sequence variation. The VR-Spec information
+  biological concepts that are essential to representing sequence variation. The VRS information
   model specifies how the computational definitions are to be represented in fields, semantics,
   objects, and object relationships.
 - **Machine readable schema.** To be useful for information exchange, the information model should
-  be realized in a schema definition language. The VR-Spec schema is currently implemented using JSON
+  be realized in a schema definition language. The VRS schema is currently implemented using JSON
   Schema, however it is intended to support translations to other schema systems (e.g. XML,
   OpenAPI, and GraphQL). The schema repository includes language-agnostic tests for ensuring schema
   compliance in downstream implementations.
-- **Conventions that promote reliable data sharing.** The VR-Spec recommends conventions regarding
-  the use of the schema and that facilitate data sharing.  For example, the VR-Spec recommends
+- **Conventions that promote reliable data sharing.** VRS recommends conventions regarding
+  the use of the schema and that facilitate data sharing.  For example, the VRS recommends
   using fully justified allele normalization using an algorithm inspired by [NCBI's SPDI project]
   (https://www.biorxiv.org/content/10.1101/537449v1).
 - **Globally unique computed identifiers.** This specification also recommends a specific algorithm
@@ -35,7 +35,7 @@ Here we document the primary contributions of this specification for variation r
 - **A Python implementation.** We provide a Python package ([vr-python]
   (https://github.com/ga4gh/vr-python/)) that demonstrates the
   above schema and algorithms, and supports translation of existing
-  variant representation schemes into VR-Spec for use in genomic data
+  variant representation schemes into VRS for use in genomic data
   sharing.  It may be used as the basis for development in Python,
   but it is not required in order to use the VR Specification.
 
