@@ -16,7 +16,7 @@ The VICC holds bi-weekly calls of all participants. These meetings serve several
 
 Everyone is welcome to join these calls. If you would like to join, please:
 
-1. [Sign up and subscribe](https://docs.google.com/forms/d/1eWjendJPwWV9r-yyUSOPGs2KfV65lhAC_Xa4mVELiCc/edit) to relevant mailing lists.
+1. [Sign up and subscribe](https://forms.gle/RCg2YYz2D14vuEdh8) to relevant mailing lists.
 2. Join our [Slack Group](https://join.slack.com/t/cancervariants/shared_invite/zt-7vi7qbgy-1834QZ2oaGYGwvFGTjDqDA).
 3. Join our open conference calls. [Add our calendar](https://calendar.google.com/calendar?cid=aG9xYmVrZWY0ODJpODJxY2hvZDM0aWNmbGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) 
 for meeting topics, times, and conferencing details.
