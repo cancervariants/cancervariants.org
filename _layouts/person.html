@@ -23,21 +23,21 @@ format: post
             <ul class="inline-list person-icons social-icons">
                 {% unless page.email == blank or page.email == nil %}
                 <li>
-                    <a href="mailto:{{ page.email }}">
+                    <a href="mailto:{{ page.email }}" target="_blank">
                         <i class="icon-mail"></i>
                     </a>
                 </li>
                 {% endunless %}
                 {% unless page.website == blank or page.website == nil %}
                 <li>
-                    <a href="{{ page.website }}">
+                    <a href="{{ page.website }}" target="_blank">
                         <i class="icon-globe"></i>
                     </a>
                 </li>
                 {% endunless %}
                 {% unless page.github_handle == blank or page.github_handle == nil %}
                 <li>
-                    <a href="https://github.com/{{ page.github_handle }}">
+                    <a href="https://github.com/{{ page.github_handle }}" target="_blank">
                         <i class="icon-github"></i>
                     </a>
                 </li>
