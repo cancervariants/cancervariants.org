@@ -6,7 +6,7 @@ role: co-director
 status: active
 email: a@alexwagner.info
 website: http://alexwagner.info
-github_handle: ahwagner
+twitter: HandlerWagner
 img_url: /assets/img/alex_wagner.jpg
 ---
 

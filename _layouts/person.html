@@ -35,10 +35,24 @@ format: post
                     </a>
                 </li>
                 {% endunless %}
-                {% unless page.github_handle == blank or page.github_handle == nil %}
+                {% unless page.github == blank or page.github == nil %}
                 <li>
-                    <a href="https://github.com/{{ page.github_handle }}" target="_blank">
+                    <a href="https://github.com/{{ page.github }}" target="_blank">
                         <i class="icon-github"></i>
+                    </a>
+                </li>
+                {% endunless %}
+                {% unless page.linkedin == blank or page.linkedin == nil %}
+                <li>
+                    <a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank">
+                        <i class="icon-linkedin"></i>
+                    </a>
+                </li>
+                {% endunless %}
+                {% unless page.twitter == blank or page.twitter == nil %}
+                <li>
+                    <a href="https://twitter.com/{{ page.twitter }}" target="_blank">
+                        <i class="icon-twitter"></i>
                     </a>
                 </li>
                 {% endunless %}
