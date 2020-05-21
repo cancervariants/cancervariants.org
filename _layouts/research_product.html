@@ -20,23 +20,6 @@ format: post
         <h2>Abstract</h2>
         {{ content }}
     </div>
-    <div class="button-group">
-        {% unless page.external_url == blank or page.external_url == nil %}
-        <a class="button small round b0" href="{{ page.external_url }}" target=_blank>
-            View {{ page.type | capitalize }} <i class="fa fa-external-link"></i>
-        </a>
-        {% endunless %}
-        {% unless page.download_url == blank or page.download_url == nil %}
-        <a class="button small round b0" href="{{ page.download_url }}" download>
-            <i class="fa fa-download"></i> Download {{ page.type | capitalize }}
-        </a>
-        {% endunless %}
-    </div>
 
-    <p class="subtle">
-        {% unless page.version == blank or page.version == nil %}
-            Current Version: {{ page.version }}
-        {% endunless %}
-    </p>
 </div>
 
