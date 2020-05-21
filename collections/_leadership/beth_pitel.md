@@ -4,7 +4,9 @@ institution: Mayo Clinic
 post_nominal_letters: MS, CG(ASCP)<sup>CM</sup>
 role: project leader
 status: active
-github: BPitel12
+email: Pitel.beth@mayo.edu
+twitter: BPitel12
+linkedin: beth-pitel-69714245
 img_url: /assets/img/beth_pitel.jpg
 ---
 Beth Pitel works as a Development technologist II in the Genomics Laboratory at Mayo Clinic and has helped develop clinical genetic testing using several different testing modalities including NGS oncology panels, RNAseq, Mate Pair sequencing, chromosomal microarray, and qPCR.  Beth is the lead development technologist on the Genomics of Oncology Annotation Team (GOAT) at Mayo Clinic, which creates interpretive resources for the laboratory based on current knowledgebase content, database content, commercial oncology NGS assays, and prevalent literature. 
