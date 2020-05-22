@@ -4,6 +4,8 @@ institution: National Cancer Institute
 post_nominal_letters: PhD
 role: working group leader
 status: active
+email: dmitriy.sonkin@nih.gov
+website: https://brb.nci.nih.gov/aboutBRP/dsonkin.htm
 img_url: /assets/img/dmitriy_sonkin.jpg
 ---
 
