@@ -21,6 +21,9 @@
   {% if include.wg != blank and include.wg != nil %}
     {% assign filtered_leaders = filtered_leaders | where:"wg",include.wg %}
   {% endif %}
+  {% if include.project != blank and include.project != nil %}
+    {% assign filtered_leaders = filtered_leaders | where:"project",include.project %}
+  {% endif %}
   {% for leader in filtered_leaders %}
     <li><a href="{{ site.url }}{{ leader.url }}">
         <div class="row">

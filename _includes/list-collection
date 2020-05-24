@@ -14,10 +14,12 @@
   <hr class="collection">
 </div>
 <ul class="collection side-nav">
+  {% assign pages = site.[include.collection] %}
   {% if include.wg != blank and include.wg != nil %}
-    {% assign pages = site.[include.collection] | where: "wg", include.wg %}
-  {% else %}
-    {% assign pages = site.[include.collection] %}
+    {% assign pages = pages | where: "wg", include.wg %}
+  {% endif %}
+  {% if include.project != blank and include.project != nil %}
+    {% assign pages = pages | where: "project", include.project %}
   {% endif %}
   {% for page in pages %}
     {% unless page.display == false %}

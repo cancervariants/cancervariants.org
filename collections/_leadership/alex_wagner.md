@@ -8,6 +8,12 @@ email: a@alexwagner.info
 website: http://alexwagner.info
 twitter: HandlerWagner
 img_url: /assets/img/alex_wagner.jpg
+wg:
+  - vrs
+  - cdr
+project:
+  - integration
+  - fusions
 ---
 
 Dr. Wagner is an Instructor at Washington University School of Medicine, where he leads the development of tools and standards for advancing precision medicine and our knowledge of genomic alterations in cancers. Dr. Wagner serves as co-director for the VICC, as well as co-leader of the [Variant Representation](https://ga4gh-gks.github.io/variant_representation.html) group of the Global Alliance for Genomics and Health. He is also an active member of the [ClinGen Somatic Working Group](https://clinicalgenome.org/working-groups/somatic/) and the American Society of Hematology Somatic Working Group.

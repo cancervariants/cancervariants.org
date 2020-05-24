@@ -10,6 +10,4 @@ The VICC is currently leading a virtual molecular tumor board. The purpose of th
 If you would like to participate in the Virtual Tumor Board by submitting a hypothetical case or discussing cases with the group, please contact the Project Leaders below.
 
 ## Project Leaders
-
-* [Beth Pitel](/leadership/beth_pitel/)
-* [Shruti Rao]()
+{% include member-collection project='vmtb' %}
