@@ -1,7 +1,7 @@
 ---
-title: GA4GH Variation Representation Specification
-external_url: https://vr-spec.readthedocs.io/
-status: approved
+title: "GA4GH Variation Representation Specification"
+external_url: "https://vr-spec.readthedocs.io/"
+status: "approved"
 wg:
   - vr
 ---

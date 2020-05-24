@@ -23,13 +23,20 @@
   {% endif %}
   {% for page in pages %}
     {% unless page.display == false %}
+    {% assign status_line = nil %}
+    {% if page.status == 'published' and page.journal != blank and page.journal != nil %}
+      {% capture status_line %}{{page.journal}}{% endcapture %}
+    {% elsif page.status == 'in-press' and page.journal != blank and page.journal != nil%}
+      {% capture status_line %}{{page.journal}} (In-press){% endcapture %}
+    {% elsif page.status != blank and page.status != nil %}
+      {% assign status_line = page.status | capitalize %}
+    {% endif %}
     <li><a href="{{ site.url }}{{ page.url }}">
-        {{ page.title }}
-        {% unless page.journal == blank or page.journal == nil %}
-        – <em>{{ page.journal }}</em>
-        {% elsif page.status != blank and page.status != nil %}
-            ({{ page.status | capitalize }})
-        {% endunless %}
+      {{ page.title }}
+      {% if status_line %}
+      - <em>{{ status_line }}</em>
+      {% endif %}
+
     </a></li>
     {% endunless %}
   {% endfor %}
