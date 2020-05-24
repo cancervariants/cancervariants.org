@@ -14,9 +14,14 @@
   <hr class="collection">
 </div>
 <ul class="side-nav">
-  {% assign filtered_leaders = site.leadership | where:"status","active" | where:"role",include.role %}
+  {% assign filtered_leaders = site.leadership | where:"status","active" %}
+  {% if include.role != blank and include.role != nil %}
+    {% assign filtered_leaders = filtered_leaders | where:"role",include.role %}
+  {% endif %}
+  {% if include.wg != blank and include.wg != nil %}
+    {% assign filtered_leaders = filtered_leaders | where:"wg",include.wg %}
+  {% endif %}
   {% for leader in filtered_leaders %}
-    {% unless leader.published == false %}
     <li><a href="{{ site.url }}{{ leader.url }}">
         <div class="row">
           <div class="columns small-12 medium-2 expanded">
@@ -41,7 +46,6 @@
         </div>
       </a>
     </li>
-    {% endunless %}
   {% endfor %}
 </ul>
 <div class="row">

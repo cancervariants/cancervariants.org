@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Knowledge Curation and Interpretation Standards"
 meta_title: "KCIS"
 permalink: "/wg/kcis/"
@@ -14,5 +14,4 @@ This group meets on the first Wednesday of every month, from 11a-12p US Central 
 {% include list-collection collection='standards' wg='kcis' %}
 
 ## Working Group Leads
-- [Dmitriy Sonkin](/leadership/dmitriy_sonkin/)
-- [Peter Horak](/leadership/peter_horak/)
+{% include member-collection wg='kcis' %}
