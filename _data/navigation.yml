@@ -32,17 +32,17 @@
     - title: Gene Fusions
       url: /projects/fusions
 
-#- title: Working Groups
-#  url: /wg/
-#  side: right
-#  dropdown:
-#  - title: Interpretation Standards
-#    url: /wg/kcis/
+- title: Working Groups
+  url: '#'
+  side: right
+  dropdown:
+  - title: Knowledge Curation Standards
+    url: /wg/kcis/
 #  - title: Clinical Data Representation
 #    url: /wg/cdr/
 #  - title: In-silico Prediction
 #    url: /wg/isp/
-#  - title: Variant Representation
+#  - title: Variant Representation and Search
 #    url: /wg/vrs/
 
 - title: Participate
