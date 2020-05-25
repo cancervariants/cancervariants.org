@@ -6,6 +6,8 @@ role: working group leader
 status: active
 website: http://www.non-coding.org/
 img_url: /assets/img/ioannis_vlachos.jpg
+wg:
+  - isp
 ---
 Dr. Vlachos is an Assistant Professor of Pathology in Harvard Medical School and the Director of the Bioinformatics Unit of the Non-coding RNA Precision Diagnostics and Bioinformatics Core, Harvard Initiative for RNA Medicine, Beth Israel Deaconess Medical Center. He is also the Co-Director of the Bioinformatics Program at the Cancer Research Institute (CRI) and an Associate Member of the Broad Institute of MIT and Harvard. 
 
