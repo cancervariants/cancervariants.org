@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Clinical Data Representation"
 meta_title: "CDR"
 permalink: "/wg/cdr/"
