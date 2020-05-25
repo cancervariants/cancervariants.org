@@ -7,7 +7,7 @@ permalink: "/wg/cdr/"
 
 
 ## About CDR
-This working group focuses on the representation and normalization of clinical data associated with variation. Ultimately, this group is responsible for the development of guidelines and tools for the normalization of clinical data elements, including therapeutics, phenotype, and disease.
+This working group focuses on the representation and normalization of clinical data associated with variation. Ultimately, this group is responsible for the development of guidelines and tools for the normalization of clinical data elements, including therapeutics, phenotypes, and diseases.
 
 This group meets on an _ad hoc_ basis. To receive updates specific to CDR, including call details and agenda, please [join the CDR mailing list](https://groups.google.com/forum/#!forum/vicc-cdr-wg) (follow link and click the blue "Join Group" button).
 
