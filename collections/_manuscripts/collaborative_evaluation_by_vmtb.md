@@ -3,6 +3,7 @@ title: "Collaborative, multi-disciplinary evaluation of cancer variants through 
 authors: "Rao S & Pitel B, et al."
 journal: "JCO Clinical Cancer Informatics"
 type: article
+date: 2020-06-01
 status: in-press
 project:
   - vmtb
