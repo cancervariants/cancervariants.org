@@ -1,7 +1,6 @@
 ---
 title: "Collaborative, multi-disciplinary evaluation of cancer variants through virtual molecular tumor boards informs local clinical practices"
 authors: "Rao S & Pitel B, et al."
-publication_year: 2020
 journal: "JCO Clinical Cancer Informatics"
 type: article
 status: in-press

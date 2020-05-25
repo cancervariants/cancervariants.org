@@ -21,7 +21,8 @@
   {% if include.project != blank and include.project != nil %}
     {% assign pages = pages | where: "project", include.project %}
   {% endif %}
-  {% for page in pages %}
+  {% assign descending_pages = pages | reverse %}
+  {% for page in descending_pages %}
     {% unless page.display == false %}
     {% assign status_line = nil %}
     {% if page.status == 'published' and page.journal != blank and page.journal != nil %}

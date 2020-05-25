@@ -1,9 +1,7 @@
 ---
 title: "A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer"
 authors: "Wagner AH, et al."
-publication_year: 2020
-publication_month: "April"
-publication_day: 3
+date: 2020-04-03
 journal: "Nature Genetics"
 type: article
 status: published

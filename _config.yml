@@ -51,9 +51,11 @@ collections:
     permalink: /leadership/:path/
   standards:
     output: true
+    sort_by: date
     permalink: /research/standards/:path/
   manuscripts:
     output: true
+    sort_by: date
     permalink: /research/manuscripts/:path/
   presentations:
     sort_by: title
