@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gene Fusion Curation"
-meta_title: "KB Integration"
+meta_title: "Fusions"
 permalink: "/projects/fusions/"
 ---
 
