@@ -3,61 +3,63 @@ layout: default
 format: post
 ---
 
-<div class="medium-8 medium-offset-2 t30">
-    <div>
-        <h1>
-            {{ page.name }}{% unless page.post_nominal_letters == blank or page.post_nominal_letters == nil %},
-                {{ page.post_nominal_letters }}
-            {% endunless %}
-            {% if page.status == 'active' %}
-                <span class="font-size-p">({{ page.role | capitalize }})</span>
-            {% endif %}
-        </h1>
-        <p class="subtle">
-            {{ page.institution }}
-        </p>
-    </div>
-    <div>
-        <div class="right l15 b10">
-            <img class="portrait-large b0" src="{{ page.img_url }}">
-            <ul class="inline-list person-icons social-icons">
-                {% unless page.email == blank or page.email == nil %}
-                <li>
-                    <a href="mailto:{{ page.email }}" target="_blank">
-                        <i class="icon-mail"></i>
-                    </a>
-                </li>
+<div class="row t30 collapse">
+    <div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+        <div>
+            <h1>
+                {{ page.name }}{% unless page.post_nominal_letters == blank or page.post_nominal_letters == nil %},
+                    {{ page.post_nominal_letters }}
                 {% endunless %}
-                {% unless page.website == blank or page.website == nil %}
-                <li>
-                    <a href="{{ page.website }}" target="_blank">
-                        <i class="icon-globe"></i>
-                    </a>
-                </li>
-                {% endunless %}
-                {% unless page.github == blank or page.github == nil %}
-                <li>
-                    <a href="https://github.com/{{ page.github }}" target="_blank">
-                        <i class="icon-github"></i>
-                    </a>
-                </li>
-                {% endunless %}
-                {% unless page.linkedin == blank or page.linkedin == nil %}
-                <li>
-                    <a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank">
-                        <i class="icon-linkedin"></i>
-                    </a>
-                </li>
-                {% endunless %}
-                {% unless page.twitter == blank or page.twitter == nil %}
-                <li>
-                    <a href="https://twitter.com/{{ page.twitter }}" target="_blank">
-                        <i class="icon-twitter"></i>
-                    </a>
-                </li>
-                {% endunless %}
-            </ul>
+                {% if page.status == 'active' %}
+                    <span class="font-size-p">({{ page.role | capitalize }})</span>
+                {% endif %}
+            </h1>
+            <p class="subtle">
+                {{ page.institution }}
+            </p>
         </div>
-        {{ content }}
+        <div>
+            <div class="right l15 b10">
+                <img class="portrait-large b0" src="{{ page.img_url }}">
+                <ul class="inline-list person-icons social-icons">
+                    {% unless page.email == blank or page.email == nil %}
+                    <li>
+                        <a href="mailto:{{ page.email }}" target="_blank">
+                            <i class="icon-mail"></i>
+                        </a>
+                    </li>
+                    {% endunless %}
+                    {% unless page.website == blank or page.website == nil %}
+                    <li>
+                        <a href="{{ page.website }}" target="_blank">
+                            <i class="icon-globe"></i>
+                        </a>
+                    </li>
+                    {% endunless %}
+                    {% unless page.github == blank or page.github == nil %}
+                    <li>
+                        <a href="https://github.com/{{ page.github }}" target="_blank">
+                            <i class="icon-github"></i>
+                        </a>
+                    </li>
+                    {% endunless %}
+                    {% unless page.linkedin == blank or page.linkedin == nil %}
+                    <li>
+                        <a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank">
+                            <i class="icon-linkedin"></i>
+                        </a>
+                    </li>
+                    {% endunless %}
+                    {% unless page.twitter == blank or page.twitter == nil %}
+                    <li>
+                        <a href="https://twitter.com/{{ page.twitter }}" target="_blank">
+                            <i class="icon-twitter"></i>
+                        </a>
+                    </li>
+                    {% endunless %}
+                </ul>
+            </div>
+            {{ content }}
+        </div>
     </div>
 </div>
