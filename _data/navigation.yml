@@ -42,8 +42,8 @@
 #    url: /wg/cdr/
 #  - title: In-silico Prediction
 #    url: /wg/isp/
-#  - title: Variant Representation and Search
-#    url: /wg/vrs/
+  - title: Variant Representation and Search
+    url: /wg/vrs/
 
 - title: Participate
   url: /join/
