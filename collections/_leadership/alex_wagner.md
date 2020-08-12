@@ -4,7 +4,7 @@ institution: Washington University School of Medicine
 post_nominal_letters: PhD
 role: co-director
 status: active
-email: a@alexwagner.info
+email: Alex.Wagner@nationwidechildrens.org
 website: http://alexwagner.info
 twitter: HandlerWagner
 img_url: /assets/img/alex_wagner.jpg

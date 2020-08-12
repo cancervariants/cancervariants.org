@@ -29,4 +29,4 @@ Below is a list of prior works and resources related to this initiative:
 - Internal fusion specification used at NCI ([GitHub comment](https://github.com/ga4gh/vr-spec/issues/28#issuecomment-554084995) from NCI presentation for VICC VR)
 
 ## Contact Information
-Please contact [Alex Wagner](mailto:a@alexwagner.info) for more information on this project.
+Please contact [Alex Wagner](mailto:Alex.Wagner@nationwidechildrens.org) for more information on this project.
