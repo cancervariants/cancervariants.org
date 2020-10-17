@@ -2,7 +2,7 @@
 title: "Standard Operating Procedure for the Interpretation of Oncogenicity/Pathogenicity of Somatic Variants"
 download_url: "/assets/docs/SOP_onc-path_interp_latest.pdf"
 status: "draft"
-version: "Draft 1.7"
+version: "Draft 1.8"
 wg:
   - "kcis"
 ---
