@@ -10,9 +10,9 @@
 <div class="row">
   <hr class="collection">
 </div>
-{% assign filtered = site.[include.collection] | reverse %}
+{% assign presentations = site.presentations | reverse %}
 <ul class="collection side-nav">
-    {% for presentation in filtered %}
+    {% for presentation in presentations %}
         <li><a href="{{ site.url }}{{ presentation.url }}">
             <span class="subtle">{{ presentation.date | date: "%d/%m/%Y" }}</span> - {{ presentation.title }} - <em>{{ presentation.author }}</em>
         </a></li>
