@@ -1,0 +1,23 @@
+{% comment %}
+*
+*   This include lets you loop through a collection to list
+*   all entries in that collection.
+*
+*   Example: {% include list-event-presentations filter_value='AACR 2020 I' %}
+*
+{% endcomment %}
+
+<div class="row">
+  <hr class="collection">
+</div>
+{% assign filtered = site.[include.collection] | reverse %}
+<ul class="collection side-nav">
+    {% for presentation in filtered %}
+        <li><a href="{{ site.url }}{{ presentation.url }}">
+            <span class="subtle">{{ presentation.date | date: "%d/%m/%Y" }}</span> - {{ presentation.title }} - <em>{{ presentation.author }}</em>
+        </a></li>
+    {% endfor %}
+</ul>
+<div class="row">
+  <hr class="collection">
+</div>

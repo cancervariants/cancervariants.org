@@ -40,7 +40,6 @@ logo: "VICC_no_text_mint.png"
 plugins:
   - jekyll-asciidoc
   - jekyll-gist
-  - jekyll-paginate
 
 # Collections
 collections_dir: /collections/
@@ -62,8 +61,8 @@ collections:
 
 # Pagination
 ############
-paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+#paginate: 5                      # Paginates all X entries
+#paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -72,6 +71,7 @@ permalink          : /:categories/:title/
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
 include            : ['.htaccess']
+
 # Exclude these files from your production _site
 exclude:
   - .sass-cache
