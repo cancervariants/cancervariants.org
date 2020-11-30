@@ -10,7 +10,7 @@
 <div class="row">
   <hr class="collection">
 </div>
-{% assign filtered = site.presentations | where:"event",include.filter_value %}
+{% assign filtered = site.event_presentations | where:"event",include.filter_value %}
 <ul class="collection side-nav">
     {% for presentation in filtered %}
         <li><a href="{{ presentation.abstract_url }}">

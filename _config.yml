@@ -56,7 +56,7 @@ collections:
     output: true
     sort_by: date
     permalink: /research/manuscripts/:path/
-  presentations:
+  event_presentations:
     sort_by: title
 
 # Pagination
