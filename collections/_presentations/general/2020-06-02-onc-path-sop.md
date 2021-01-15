@@ -1,4 +1,4 @@
 ---
 author: "Dmitriy Sonkin, PhD"
-title: "Variant Oncogenicity / Pathogenicity Classification SOP Updates"
+title: "Variant Oncogenicity Classification SOP Updates"
 ---
