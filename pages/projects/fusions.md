@@ -17,7 +17,7 @@ This project was initiated from joint activity between the ClinGen Somatic Worki
 This group currently meets on the 4th Wednesday of each month, alternating between 12:00-12:50 and 4:00-4:50 U.S. Eastern Time (ET) to enable maximal community participation. Please see the [VICC Calendar](https://calendar.google.com/calendar/embed?src=hoqbekef482i82qchod34icflk%40group.calendar.google.com&ctz=America%2FNew_York) for meeting details.
 
 ## Manuscript Planning
-We are in the early stages of drafting our SOP, and are still heavily focused on gathering input from the community to shape the eventual content. You may comment directly on the [living manuscript draft](https://docs.google.com/document/d/1V9IAsV5eXPyX1jmF-Rm_g7chP-oTiBOQE6pHybebAOw/edit?usp=sharing), or provide trackable feedback on our [GitHub repository](https://github.com/cancervariants/fusions/issues). 
+We are in the early stages of drafting our SOP, and are still heavily focused on gathering input from the community to shape the eventual content. You may contact us via email or provide trackable feedback on our [GitHub repository](https://github.com/cancervariants/fusions/issues). 
 
 ## Resources
 Below is a list of prior works and resources related to this initiative:
