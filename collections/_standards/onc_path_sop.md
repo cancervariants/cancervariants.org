@@ -1,5 +1,5 @@
 ---
-title: "Standard Operating Procedure for the Interpretation of Oncogenicity of Somatic Variants"
+title: "Standard Operating Procedure for the Classification of Oncogenicity of Somatic Variants"
 download_url: "/assets/docs/SOP_onc-path_interp_latest.pdf"
 status: "draft"
 version: "Draft 2.1"
@@ -10,9 +10,9 @@ Somatic variants in cancer-relevant genes are interpreted from multiple partiall
 considered in discovery and translational research endeavors, it is important to determine if a particular variant 
 observed in a gene of interest is oncogenic or not, as such knowledge provides the foundation on which targeted cancer 
 treatment research is based. In contrast, clinical applications are dominated by diagnostic, prognostic, or therapeutic 
-interpretations which in part also depends on underlying variant oncogenicity. The Association for Molecular Pathology, 
+variant classification which in part also depends on underlying variant oncogenicity. The Association for Molecular Pathology, 
 the American Society of Clinical Oncology, and the College of American Pathologists (AMP/ASCO/CAP) have published 
-structured somatic variant clinical interpretation guidelines which specifically address diagnostic, prognostic, and 
+structured somatic variant clinical classification guidelines which specifically address diagnostic, prognostic, and 
 therapeutic implications. These guidelines have been well-received by the oncology community. Many variant 
 knowledgebases, clinical laboratories/centers have adopted or are in the process of adopting these guidelines. The 
 AMP/ASCO/CAP guidelines also describe different data types which are used to determine oncogenicity of a variant, such 
@@ -23,8 +23,8 @@ targets that supports their value as clinical targets.
 
 However, neither of these clinical guideline systems provide systematic and comprehensive procedures for aggregating 
 population frequency, functional data, computational predictions, segregation, and somatic frequency to consistently 
-interpret variant oncogenicity, as has been published in the ACMG/AMP guidelines for interpretation of pathogenicity 
-of germline variants. In order to address this unmet need for somatic variant oncogenicity interpretation procedures, 
+interpret variant oncogenicity, as has been published in the ACMG/AMP guidelines for classification of pathogenicity 
+of germline variants. In order to address this unmet need for somatic variant oncogenicity classification procedures, 
 the Variant Interpretation for Cancer Consortium (VICC, a GA4GH driver project) Knowledge Curation and Interpretation 
 Standards (KCIS) working group (WG) has developed a Standard Operating Procedure (SOP) with contributions from members 
 of ClinGen Somatic Clinical Domain WG, and ClinGen Somatic/Germline variant curation WG using an approach similar to 
