@@ -3,7 +3,7 @@ name: Shruti Rao
 institution: Georgetown University Medical Center
 post_nominal_letters: MS, MBA
 role: project leader
-status: active
+status: inactive
 img_url: /assets/img/shruti_rao.jpg
 project:
   - vmtb
