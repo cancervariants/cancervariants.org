@@ -12,7 +12,7 @@ observed in a gene of interest is oncogenic or not, as such knowledge provides t
 treatment research is based. In contrast, clinical applications are dominated by diagnostic, prognostic, or therapeutic 
 variant classification which in part also depends on underlying variant oncogenicity. The Association for Molecular Pathology, 
 the American Society of Clinical Oncology, and the College of American Pathologists (AMP/ASCO/CAP) have published 
-structured somatic variant clinical classification guidelines which specifically address diagnostic, prognostic, and 
+structured somatic variant clinical interpretation guidelines which specifically address diagnostic, prognostic, and 
 therapeutic implications. These guidelines have been well-received by the oncology community. Many variant 
 knowledgebases, clinical laboratories/centers have adopted or are in the process of adopting these guidelines. The 
 AMP/ASCO/CAP guidelines also describe different data types which are used to determine oncogenicity of a variant, such 
