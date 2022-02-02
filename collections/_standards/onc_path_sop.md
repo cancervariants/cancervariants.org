@@ -1,8 +1,8 @@
 ---
-title: "Standard Operating Procedure for the Classification of Oncogenicity of Somatic Variants"
-download_url: "/assets/docs/SOP_onc-path_interp_latest.pdf"
-status: "draft"
-version: "Draft 2.1"
+title: "ClinGen/CGC/VICC SOP for the classification of pathogenicity of somatic variants in cancer (oncogenicity)"
+external_url: "https://www.clinicalgenome.org/site/assets/files/7402/sop_for_classification_of_oncogenicity_of_somatic_variants_version_1_0.pdf"
+status: "final"
+version: "1.0"
 wg:
   - "kcis"
 ---
