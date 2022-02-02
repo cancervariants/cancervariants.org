@@ -10,7 +10,7 @@ Somatic variants in cancer-relevant genes are interpreted from multiple partiall
 considered in discovery and translational research endeavors, it is important to determine if a particular variant 
 observed in a gene of interest is oncogenic or not, as such knowledge provides the foundation on which targeted cancer 
 treatment research is based. In contrast, clinical applications are dominated by diagnostic, prognostic, or therapeutic 
-variant classification which in part also depends on underlying variant oncogenicity. The Association for Molecular Pathology, 
+interpretations which in part also depends on underlying variant oncogenicity. The Association for Molecular Pathology, 
 the American Society of Clinical Oncology, and the College of American Pathologists (AMP/ASCO/CAP) have published 
 structured somatic variant clinical interpretation guidelines which specifically address diagnostic, prognostic, and 
 therapeutic implications. These guidelines have been well-received by the oncology community. Many variant 
