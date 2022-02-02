@@ -1,7 +1,7 @@
 ---
 title: "ClinGen/CGC/VICC SOP for the classification of pathogenicity of somatic variants in cancer (oncogenicity)"
 external_url: "https://www.clinicalgenome.org/site/assets/files/7402/sop_for_classification_of_oncogenicity_of_somatic_variants_version_1_0.pdf"
-status: "final"
+status: "approved"
 version: "1.0"
 wg:
   - "kcis"
@@ -29,5 +29,5 @@ the Variant Interpretation for Cancer Consortium (VICC, a GA4GH driver project) 
 Standards (KCIS) working group (WG) has developed a Standard Operating Procedure (SOP) with contributions from members 
 of ClinGen Somatic Clinical Domain WG, and ClinGen Somatic/Germline variant curation WG using an approach similar to 
 the ACMG/AMP germline pathogenicity guidelines to categorize evidence of oncogenicity as very strong, strong, moderate 
-or supporting. This SOP enables consistent and comprehensive assessment of oncogenicity of somatic variants and latest 
-version of an SOP can be downloaded below.
+or supporting. This SOP enables consistent and comprehensive assessment of oncogenicity of somatic variants and the 
+latest version may be found at the below link.
