@@ -1,8 +1,8 @@
 ---
-title: "Standard Operating Procedure for the Interpretation of Oncogenicity of Somatic Variants"
-download_url: "/assets/docs/SOP_onc-path_interp_latest.pdf"
-status: "draft"
-version: "Draft 2.1"
+title: "ClinGen/CGC/VICC SOP for the classification of pathogenicity of somatic variants in cancer (oncogenicity)"
+external_url: "https://www.clinicalgenome.org/site/assets/files/7402/sop_for_classification_of_oncogenicity_of_somatic_variants_version_1_0.pdf"
+status: "approved"
+version: "1.0"
 wg:
   - "kcis"
 ---
@@ -23,11 +23,11 @@ targets that supports their value as clinical targets.
 
 However, neither of these clinical guideline systems provide systematic and comprehensive procedures for aggregating 
 population frequency, functional data, computational predictions, segregation, and somatic frequency to consistently 
-interpret variant oncogenicity, as has been published in the ACMG/AMP guidelines for interpretation of pathogenicity 
-of germline variants. In order to address this unmet need for somatic variant oncogenicity interpretation procedures, 
+interpret variant oncogenicity, as has been published in the ACMG/AMP guidelines for classification of pathogenicity 
+of germline variants. In order to address this unmet need for somatic variant oncogenicity classification procedures, 
 the Variant Interpretation for Cancer Consortium (VICC, a GA4GH driver project) Knowledge Curation and Interpretation 
 Standards (KCIS) working group (WG) has developed a Standard Operating Procedure (SOP) with contributions from members 
 of ClinGen Somatic Clinical Domain WG, and ClinGen Somatic/Germline variant curation WG using an approach similar to 
 the ACMG/AMP germline pathogenicity guidelines to categorize evidence of oncogenicity as very strong, strong, moderate 
-or supporting. This SOP enables consistent and comprehensive assessment of oncogenicity of somatic variants and latest 
-version of an SOP can be downloaded below.
+or supporting. This SOP enables consistent and comprehensive assessment of oncogenicity of somatic variants and the 
+latest version may be found at the below link.
