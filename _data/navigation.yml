@@ -8,8 +8,8 @@
   dropdown:
     - title: Overview
       url: /about/
-    # - title: Leadership
-    #   url: /leadership/
+    - title: Leadership
+      url: /leadership/
     - title: Principles
       url: /principles/
 #    - title: Partners
