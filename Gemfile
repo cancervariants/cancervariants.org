@@ -9,3 +9,4 @@ end
 
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
+gem 'jekyll-redirect-from'

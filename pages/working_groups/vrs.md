@@ -3,6 +3,7 @@ layout: page
 title: "Variant Representation and Search"
 meta_title: "VR&S"
 permalink: "/wg/vrs/"
+redirect_to: "/"
 ---
 
 ## About VR&S

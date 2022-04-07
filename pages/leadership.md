@@ -8,8 +8,9 @@ permalink: '/leadership/'
 ## Co-Directors
 {% include member-collection role='co-director' %}
 
-## Working group leaders
-{% include member-collection role='working group leader' %}
+
+<!-- ## Working group leaders
+{% include member-collection role='working group leader' %} -->
 
 ## Project Leaders
 {% include member-collection role='project leader' %}

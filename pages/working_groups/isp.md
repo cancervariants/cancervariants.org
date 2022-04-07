@@ -3,6 +3,7 @@ layout: page
 title: "In-Silico Prediction"
 meta_title: "ISP"
 permalink: "/wg/isp/"
+redirect_to: "/"
 ---
 
 ## About ISP

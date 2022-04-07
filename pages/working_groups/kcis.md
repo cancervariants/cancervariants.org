@@ -3,6 +3,7 @@ layout: page
 title: "Knowledge Curation and Interpretation Standards"
 meta_title: "KCIS"
 permalink: "/wg/kcis/"
+# redirect_to: "/"
 ---
 
 ## About KCIS
