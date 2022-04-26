@@ -3,8 +3,10 @@ layout: page
 title: "Variant Representation and Search"
 meta_title: "VR&S"
 permalink: "/wg/vrs/"
-redirect_to: "/"
 ---
+<div style="color:red;"><em>
+The Working Group structure in VICC was been reworked to focus on Projects. This page is maintained as a record of former Working Group activities.
+</em></div>
 
 ## About VR&S
 

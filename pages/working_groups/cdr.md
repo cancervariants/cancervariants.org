@@ -3,9 +3,11 @@ layout: page
 title: "Clinical Data Representation"
 meta_title: "CDR"
 permalink: "/wg/cdr/"
-redirect_to: "/"
 ---
 
+<div style="color:red;"><em>
+The Working Group structure in VICC was been reworked to focus on Projects. This page is maintained as a record of former Working Group activities.
+</em></div>
 
 ## About CDR
 This working group focuses on the representation and normalization of clinical data associated with variation. Ultimately, this group is responsible for the development of guidelines and tools for the normalization of clinical data elements, including therapeutics, phenotypes, and diseases.

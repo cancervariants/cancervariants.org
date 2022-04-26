@@ -3,8 +3,10 @@ layout: page
 title: "In-Silico Prediction"
 meta_title: "ISP"
 permalink: "/wg/isp/"
-redirect_to: "/"
 ---
+<div style="color:red;"><em>
+The Working Group structure in VICC was been reworked to focus on Projects. This page is maintained as a record of former Working Group activities.
+</em></div>
 
 ## About ISP
 This working group will focus on methods for the _in-silico_ prediction of biological consequences of cancer variants, and practices for evaluating robustness and confidence of these predictions. Ultimately, this focus should lead to guidelines, standards, and tools in support of the use of these predictions as evidence for variant clinical significance classification.

@@ -3,8 +3,10 @@ layout: page
 title: "Knowledge Curation and Interpretation Standards"
 meta_title: "KCIS"
 permalink: "/wg/kcis/"
-# redirect_to: "/"
 ---
+<div style="color:red;"><em>
+The Working Group structure in VICC was been reworked to focus on Projects. This page is maintained as a record of former Working Group activities.
+</em></div>
 
 ## About KCIS
 This working group focuses on the landscape of variation interpretation standards, the salient data elements informing those standards, and how those elements are curated. Ultimately, this group is responsible for the development of guidelines to be followed and the appropriate contexts for which they should be used.
