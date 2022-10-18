@@ -3,7 +3,7 @@ name: Debyani Chakravarty
 institution: Memorial Sloan Kettering Cancer Center
 post_nominal_letters: PhD
 role: co-director
-status: active
+status: inactive
 img_url: /assets/img/debyani_chakravarty.png
 website: https://scholar.google.com/citations?hl=en&user=xUvqIhoAAAAJ&view_op=list_works
 twitter: CDebyaniPhD

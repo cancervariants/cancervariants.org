@@ -1,15 +1,17 @@
 ---
 layout: page
 title: "VICC Principles and Policies"
-meta_title: "Principles"
+meta_title: "Principles & Policies"
 permalink: "/principles/"
 ---
 The VICC is an open consortium, founded on the belief that biomedical knowledge is intended to be shared for the benefit of all. As an organization that welcomes all interested participants, we have developed the following guidelines for conduct and participation to lay the groundwork for common understanding and practice in our shared endeavors.
 
-## VICC Member Policies
+## VICC Policies
 
 * Standards for Professional Conduct ([Approved](https://docs.google.com/document/d/1ZOFUKQ-ZSuy4-L9WXtsNDAte4oN4WosGxxHnzoaYmyo/edit))
 * Authorship Policy ([Approved](https://docs.google.com/document/d/18kEfDq982js2N7kAxyaQv3OW9ZUaQTY9Lh4bHjtCbps/edit))
+* Project Submission and Review Policy ([Approved](https://docs.google.com/document/d/1OmNBer5r5M4LLiIL8OPGiQy5ZxN7AoSjav76UXUAkoo/edit?usp=sharing)) 
+  * ([Submit a Project proposal](https://forms.gle/3QzKjpjhk6feGEg56))
 
 ## VICC Knowledge Sharing Principles
 

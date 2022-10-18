@@ -2,7 +2,7 @@
 name: Beth Pitel
 institution: Mayo Clinic
 post_nominal_letters: MS, CG(ASCP)<sup>CM</sup>
-role: project leader
+role: co-director
 status: active
 email: Pitel.beth@mayo.edu
 twitter: BPitel12

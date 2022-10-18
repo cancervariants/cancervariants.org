@@ -7,6 +7,7 @@ permalink: '/leadership/'
 
 ## Co-Directors
 {% include member-collection role='co-director' %}
+\* Co-directors Obi Griffith and Malachi Griffith have a shared, alternating appointment.
 
 ## Project Leaders
 {% include member-collection role='project leader' %}

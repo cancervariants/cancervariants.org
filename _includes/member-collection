@@ -32,9 +32,13 @@
           </div>
           <div class="columns small-12 medium-10 text-left end">
             <div>
+                {% assign lastname = leader.name | split: " " | last %}
                 {{ leader.name }}{% unless leader.post_nominal_letters == blank or leader.post_nominal_letters == nil %},
-                {{ leader.post_nominal_letters }}
+                 {{ leader.post_nominal_letters }}
                 {% endunless %}
+                {% if lastname == "Griffith" %}
+                 *
+                {% endif %}
                 {% unless page.status == blank or page.status == nil %}
                 ({{ page.status | capitalize }})
                 {% endunless %}
