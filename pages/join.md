@@ -6,8 +6,8 @@ permalink: "/join/"
 ---
 
 ### Join the discussion
-The VICC holds bi-weekly calls of all participants. These meetings serve several purposes:
-- Update presentations from the VICC working groups.
+The VICC holds twice monthly calls open to all participants. These meetings serve several purposes:
+- Update presentations from the VICC projects.
 - Presentations from existing cancer knowledgebases. These presentations help to increase awareness of otherwise siloed 
  efforts. Each presentation is followed by discussion of developing standards, ontologies, and APIs.
 - Input from industry partners and other interested parties.
