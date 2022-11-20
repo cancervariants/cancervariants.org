@@ -43,6 +43,13 @@ format: post
                         </a>
                     </li>
                     {% endunless %}
+                    {% unless page.mastodon == blank or page.mastodon == nil %}
+                    <li>
+                        <a rel="me" href="{{ page.mastodon }}" target="_blank">
+                            <i class="icon-network"></i>
+                        </a>
+                    </li>
+                    {% endunless %}
                     {% unless page.linkedin == blank or page.linkedin == nil %}
                     <li>
                         <a href="https://www.linkedin.com/in/{{ page.linkedin }}" target="_blank">

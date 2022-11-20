@@ -5,8 +5,7 @@ post_nominal_letters: PhD
 role: co-director
 status: active
 email: Alex.Wagner@nationwidechildrens.org
-website: http://alexwagner.info
-twitter: HandlerWagner
+mastodon: https://genomic.social/@a
 img_url: /assets/img/alex_wagner.jpg
 wg:
   - vrs
