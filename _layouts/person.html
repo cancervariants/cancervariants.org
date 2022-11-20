@@ -11,7 +11,11 @@ format: post
                     {{ page.post_nominal_letters }}
                 {% endunless %}
                 {% if page.status == 'active' %}
-                    <span class="font-size-p">({{ page.role | capitalize }})</span>
+                    {% if page.name == 'Alex H. Wagner' %}
+                        <span class="font-size-p">(Director)</span>
+                    {% else %}
+                        <span class="font-size-p">({{ page.role | capitalize }})</span>
+                    {% endif %}
                 {% endif %}
             </h1>
             <p class="subtle">
