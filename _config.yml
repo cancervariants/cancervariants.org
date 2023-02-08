@@ -65,6 +65,10 @@ collections:
     output: true
     sort_by: date
     permalink: /presentations/:path/
+  meetings:
+    output: true
+    sort_by: date
+    meetings: /meetings/:path/
 
 # Pagination
 ############
@@ -130,6 +134,13 @@ defaults:
       type: 'presentations'
     values:
       type: 'presentation'
+      layout: 'page'
+  -
+    scope:
+      path: ''
+      type: 'meetings'
+    values:
+      type: 'meeting'
       layout: 'page'
   -
     scope:
