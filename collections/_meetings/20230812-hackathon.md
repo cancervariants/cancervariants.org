@@ -2,7 +2,6 @@
 title: "Variant Interpretation for Cancer Consortium, CIViC, & ClinGen Somatic: Hackathon & Curation Jamboree"
 location: "St. Louis, Missouri USA"
 when: "08/12/2023"
-number: 1
 ---
 
 Dates: August 12th, 2023\

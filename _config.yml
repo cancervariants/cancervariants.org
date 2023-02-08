@@ -67,7 +67,7 @@ collections:
     permalink: /presentations/:path/
   meetings:
     output: true
-    sort_by: number
+    sort_by: when
     meetings: /meetings/:path/
 
 # Pagination
