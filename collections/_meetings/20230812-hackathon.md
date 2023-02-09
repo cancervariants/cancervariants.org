@@ -5,7 +5,7 @@ when: "08/12/2023"
 ---
 
 Dates: August 12th, 2023\
-Location: TBD\
+Location: {{ page.location }}\
 Sign Up: TBD
 
 *Description*\
