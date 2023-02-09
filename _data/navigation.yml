@@ -18,6 +18,10 @@
 #      url: /partners/
 #    - title: "Invited Talks"
 #      url: "/talks/"
+    - title: Meetings
+      url: /meetings/
+#    - title: Data Partners
+#      url: /data_partners/
 
 - title: Research Products
   url: /research/
