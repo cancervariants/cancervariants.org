@@ -5,7 +5,7 @@ post_nominal_letters: PhD, FACMG
 role: co-director
 status: active
 email: catherine.cottrell@nationwidechildrens.org
-twitter:
+twitter: DrMadCatter
 linkedin: catherine-cottrell-646103110
 img_url: /assets/img/catherine_cottrell.png
 project:

@@ -18,7 +18,7 @@ Alignment of this project with related projects, such as the gene fusion represe
 **PLACEHOLDER**: This group currently meets on the 4th Wednesday of each month, alternating between 12:00-12:50 and 4:00-4:50 U.S. Eastern Time (ET) to enable maximal community participation. Please see the [VICC Calendar](https://calendar.google.com/calendar/embed?src=hoqbekef482i82qchod34icflk%40group.calendar.google.com&ctz=America%2FNew_York) for meeting details.
 
 ## Project Participants
-This project will include two leads, an advisory committee, a working group, and a project coordinator. These roles and associated responsibilities are described in this section.
+This project will include two leads, an advisory committee, a working group, and a project coordinator.
 
 ## Project Leaders
 {% include member-collection project='gfo_leads' %}
