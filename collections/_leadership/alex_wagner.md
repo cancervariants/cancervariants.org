@@ -1,6 +1,6 @@
 ---
 name: Alex H. Wagner
-institution: Nationwide Children's Hospital, Ohio State University
+institution: Nationwide Children's Hospital, The Ohio State University
 post_nominal_letters: PhD
 role: co-director
 status: active

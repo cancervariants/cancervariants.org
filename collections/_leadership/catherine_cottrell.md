@@ -1,6 +1,6 @@
 ---
 name: Catherine Cottrell
-institution: Nationwide Children's Hospital
+institution: Nationwide Children's Hospital, The Ohio State University
 post_nominal_letters: PhD, FACMG
 role: co-director
 status: active
