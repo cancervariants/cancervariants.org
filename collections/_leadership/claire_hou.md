@@ -1,6 +1,6 @@
 ---
 name: Ying-Chen Claire Hou
-institution: Nationwide Children's Hospital
+institution: Nationwide Children's Hospital, The Ohio State University
 post_nominal_letters: PhD
 role: Member
 status: active

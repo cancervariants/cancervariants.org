@@ -4,7 +4,7 @@ institution: ProPath & University of Nebraska Medical Center
 post_nominal_letters: MD
 role: Member
 status: active
-email: julia.bridge@propath.com
+email: jbridge@unmc.edu
 twitter:
 linkedin: julia-bridge-549b6bb
 img_url: /assets/img/julia_bridge.jpg
