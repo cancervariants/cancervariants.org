@@ -13,6 +13,7 @@ wg:
 project:
   - integration
   - fusions
+  - gfo_advisory
 ---
 
 Dr. Wagner is an Assistant Professor at the Steve and Cindy Rasmussen Institute for Genomic Medicine (IGM) at Nationwide Children's Hospital and the Department of Pediatrics at the Ohio State University College of Medicine. At IGM, he leads the development of tools and standards for advancing precision medicine and our knowledge of genomic alterations in cancers. Dr. Wagner serves as co-director for the VICC as well as co-leader of the [Variant Representation](https://ga4gh-gks.github.io/variant_representation.html) group of the Global Alliance for Genomics and Health. He is a lead developer of the [GA4GH Variation Representation Specification (VRS)](vr-spec.readthedocs.io), a computational framework for precisely representing and sharing variation across systems. He is also an active member of the [ClinGen Somatic Working Group](https://clinicalgenome.org/working-groups/somatic/).

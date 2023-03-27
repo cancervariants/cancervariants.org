@@ -37,6 +37,8 @@
       url: /projects/integration/
     - title: Gene Fusions
       url: /projects/fusions/
+    - title: Gene Fusion Oncogenicity
+      url: /projects/fusion-oncogenicity/
 
 # - title: Working Groups
 #   url: '#'
