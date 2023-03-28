@@ -2,7 +2,7 @@
 name: Karen Tsuchiya
 institution: University of Washington
 post_nominal_letters: MD, FCAP, FACMG
-role: co-director
+role: project leader
 status: active
 email: tsuchk@uw.edu
 twitter:

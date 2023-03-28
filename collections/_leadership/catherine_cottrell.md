@@ -2,7 +2,7 @@
 name: Catherine Cottrell
 institution: Nationwide Children's Hospital, The Ohio State University
 post_nominal_letters: PhD, FACMG
-role: co-director
+role: project leader
 status: active
 email: catherine.cottrell@nationwidechildrens.org
 twitter: DrMadCatter
