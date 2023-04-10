@@ -6,7 +6,7 @@ when: "08/12/2023"
 
 Dates: August 12th, 2023\
 Location: {{ page.location }}\
-Sign Up: TBD
+Sign Up: [CGC & Hackathon Registration](https://www.cancergenomics.org/meetings/registration.php)
 
 *Description*\
 The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium annual conference.
