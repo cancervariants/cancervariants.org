@@ -20,7 +20,7 @@ Event Details:
 
 When
 8am-5pm Saturday, August 12th
-For more details, please see: https://www.cancergenomics.org/meetings/2023_vicc_civic_clingen_hackat.php
+For more details, please see: [Website](https://www.cancergenomics.org/meetings/2023_vicc_civic_clingen_hackat.php).
 
 Where
 Hyatt Regency St. Louis at the Arch
