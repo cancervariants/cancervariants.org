@@ -5,7 +5,7 @@ when: "08/03/2024"
 ---
 
 Dates: August 3rd, 2024\
-Time: 9am to 5pm EST\
+Time: 9am to 5pm CST\
 Location: {{ page.location }}\
 Sign Up: [CGC & Hackathon Registration](https://www.cancergenomics.org/meetings/registration.php)
 
@@ -22,7 +22,7 @@ To view proposed topics or suggest an idea, visit the [GitHub Issues page](https
 $70 USD
 
 *When:*\
-9am-5pm EST Saturday, August 3rd\
+9am-5pm CST Saturday, August 3rd\
 <!---For more details, please see: https://www.cancergenomics.org/meetings/2023_vicc_civic_clingen_hackat.php-->
 
 *Where:*\
