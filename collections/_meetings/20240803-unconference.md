@@ -20,7 +20,7 @@ To view proposed topics or suggest an idea, visit the [GitHub Issues page](https
 
 *When:*\
 8am-5pm Saturday, August 3rd\
-For more details, please see: https://www.cancergenomics.org/meetings/2023_vicc_civic_clingen_hackat.php
+<!---For more details, please see: https://www.cancergenomics.org/meetings/2023_vicc_civic_clingen_hackat.php-->
 
 *Where:*\
 Hyatt Regency St. Louis at the Arch
