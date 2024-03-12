@@ -34,6 +34,6 @@ Parkview Room on the 4th Floor
 Coffee breaks and lunch provided with an optional networking dinner
 
 <!---Optional Networking Dinner
-6:00 PM Saturday, August 3rd
+6 PM CST Saturday, August 3rd
 Bar Three Sixty (top floor of the Hilton Ballpark, 1 S Broadway Ave, St Louis MO 63102)
 After the meeting, all participants are invited to a complimentary dinner and drinks, to continue group discussions and promote collaborative networking.-->
