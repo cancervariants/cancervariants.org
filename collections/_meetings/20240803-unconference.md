@@ -1,11 +1,11 @@
 ---
-title: "Variant Interpretation for Cancer Consortium, CIViC, & ClinGen Somatic: Variant Curation & Coding Unconference"
+title: "VICC, CGC, CIViC, & ClinGen Somatic: Variant Curation & Coding Unconference"
 location: "Hyatt Regency St. Louis at the Arch, St. Louis, Missouri USA"
 when: "08/03/2024"
 ---
 
 Dates: August 3rd, 2024\
-Time: 8am to 5pm
+Time: 9am to 5pm
 Location: {{ page.location }}\
 Sign Up: [CGC & Hackathon Registration](https://www.cancergenomics.org/meetings/registration.php)
 
@@ -19,7 +19,7 @@ To view proposed topics or suggest an idea, visit the [GitHub Issues page](https
 **Event Details:**
 
 *When:*\
-8am-5pm Saturday, August 3rd\
+9am-5pm Saturday, August 3rd\
 <!---For more details, please see: https://www.cancergenomics.org/meetings/2023_vicc_civic_clingen_hackat.php-->
 
 *Where:*\
@@ -28,7 +28,7 @@ Hyatt Regency St. Louis at the Arch
 Parkview Room on the 4th Floor
 
 *Food:*\
-Catered breakfast, morning snack, lunch, afternoon snack, optional networking dinner
+Coffee breaks and lunch provided with an optional networking dinner
 
 <!---Optional Networking Dinner
 6:00 PM Saturday, August 3rd
