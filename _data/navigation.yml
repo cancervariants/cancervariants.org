@@ -36,7 +36,7 @@
     - title: Knowledgebase Integration
       url: /projects/integration/
     - title: Gene Fusions
-      url: /projects/fusions/
+      url: https://fusions.cancervariants.org/en/latest/
     - title: Gene Fusion Oncogenicity
       url: /projects/fusion-oncogenicity/
 
